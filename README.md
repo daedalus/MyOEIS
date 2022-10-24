@@ -10,3 +10,6 @@
 [A355419](https://oeis.org/A355419)		a(n) is the number of solutions to x^y == y^x (mod p) where 0 < x,y <= p and p is the n-th prime.
 
 [A355486](https://oeis.org/A355486)		a(n) is the number of total solutions (minus the n-th prime) to x^y == y^x (mod p) where 0 < x,y <= p and p is the n-th prime.
+
+[A357945](https://oeis.org/A357945)		Numbers k which are not square but D = (b+c)^2 - k is square, where b = floor(sqrt(k)) and c = k - b^2.	
+
