@@ -13,5 +13,6 @@
 
 [A357945](https://oeis.org/A357945)		Numbers k which are not square but D = (b+c)^2 - k is square, where b = floor(sqrt(k)) and c = k - b^2.	
 
-[A358016](https://oeis.org/A358016)		For n >= 3, a(n) is the largest k <= n-2 such that k^2 == 1 (mod n).
+[A358016](https://oeis.org/A358016)   For n >= 3, a(n) is the largest k <= n-2 such that k^2 == 1 (mod n).
 
+[A357928](https://oeis.org/A357928)   a(n) is the smallest c for which (s+c)^2-n is a square, where s = floor(sqrt(n)), or -1 if no such c exists.
