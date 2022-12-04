@@ -18,3 +18,5 @@
 [A357928](https://oeis.org/A357928)   a(n) is the smallest c for which (s+c)^2-n is a square, where s = floor(sqrt(n)), or -1 if no such c exists.
 
 [A358043](https://oeis.org/A358043)		Numbers k such that phi(k) is a multiple of 8.
+
+[A358043](https://oeis.org/A358051)   Squares k such that phi(k) is a cube.
