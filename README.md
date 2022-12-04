@@ -19,4 +19,4 @@
 
 [A358043](https://oeis.org/A358043)		Numbers k such that phi(k) is a multiple of 8.
 
-[A358043](https://oeis.org/A358051)   Squares k such that phi(k) is a cube.
+[A358051](https://oeis.org/A358051)   Squares k such that phi(k) is a cube.
