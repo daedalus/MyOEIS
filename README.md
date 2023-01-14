@@ -20,3 +20,5 @@
 [A358043](https://oeis.org/A358043)		Numbers k such that phi(k) is a multiple of 8.
 
 [A358051](https://oeis.org/A358051)   Squares k such that phi(k) is a cube.
+
+[A359451](https://oeis.org/A359415)   Numbers k such that phi(k) is a 5-smooth number where phi is the Euler totient function.		0
