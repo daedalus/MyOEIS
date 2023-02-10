@@ -24,3 +24,5 @@
 [A359451](https://oeis.org/A359415)   Numbers k such that phi(k) is a 5-smooth number where phi is the Euler totient function.
 
 [A359864](https://oeis.org/A359864)   a(n) is the number of solutions to the congruence x^y == y^x (mod n) where 0 <= x,y <= n.
+
+[A358821](https://oeis.org/A358821)   a(n) is the largest square dividing n^2-1.
