@@ -26,3 +26,5 @@
 [A359864](https://oeis.org/A359864)   a(n) is the number of solutions to the congruence x^y == y^x (mod n) where 0 <= x,y <= n.
 
 [A358821](https://oeis.org/A358821)   a(n) is the largest square dividing n^2-1.
+
+[A360760](https://oeis.org/A360760)   a(n) = n^16 + n^15 + n^2 + 1 (or crc-16-ibm poly).
