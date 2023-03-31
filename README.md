@@ -28,3 +28,5 @@
 [A358821](https://oeis.org/A358821)   a(n) is the largest square dividing n^2-1.
 
 [A360760](https://oeis.org/A360760)   a(n) = n^16 + n^15 + n^2 + 1 (or crc-16-ibm poly).
+
+[A361913](https://oeis.org/A361913)		a(n) is the number of steps in the main loop of the Pollard's rho integer factorization algorithm with x=2, y=2 and g(x)=x^2-1.
