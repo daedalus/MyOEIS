@@ -34,3 +34,9 @@
 [A362008](https://oeis.org/A362008)		Numbers whose Euler's cototient is divisible by 9.
 
 [A362961](https://oeis.org/A362961) a(n) = Sum_{b=0..floor(sqrt(n)), n-b^2 is square} b.
+
+[A363051](https://oeis.org/A363051)		a(n) = Sum_{b=0..floor(sqrt(n/2)), n-b^2 is square} b.
+
+
+
+
