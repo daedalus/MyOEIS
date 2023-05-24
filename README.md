@@ -37,6 +37,7 @@
 
 [A363051](https://oeis.org/A363051)		a(n) = Sum_{b=0..floor(sqrt(n/2)), n-b^2 is square} b.
 
+[A362502](https://oeis.org/A362502) Least k > 0 such that (floor(sqrt(n*k)) + 1)^2 mod n is a square.
 
 
 
