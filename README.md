@@ -39,5 +39,5 @@
 
 [A362502](https://oeis.org/A362502) Least k > 0 such that (floor(sqrt(n*k)) + 1)^2 mod n is a square.
 
-
+[A363612](https://oeis.org/A363612)		Number of iterations of phi(x) at n needed to reach a square.
 
