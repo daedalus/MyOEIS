@@ -31,13 +31,14 @@
 
 [A361913](https://oeis.org/A361913)		a(n) is the number of steps in the main loop of the Pollard's rho integer factorization algorithm with x=2, y=2 and g(x)=x^2-1.
 
-[A362008](https://oeis.org/A362008)		Numbers whose Euler's cototient is divisible by 9.
+[A362008](https://oeis.org/A362008)   Numbers whose Euler's cototient is divisible by 9.
 
-[A362961](https://oeis.org/A362961) a(n) = Sum_{b=0..floor(sqrt(n)), n-b^2 is square} b.
+[A362961](https://oeis.org/A362961)   a(n) = Sum_{b=0..floor(sqrt(n)), n-b^2 is square} b.
 
 [A363051](https://oeis.org/A363051)		a(n) = Sum_{b=0..floor(sqrt(n/2)), n-b^2 is square} b.
 
-[A362502](https://oeis.org/A362502) Least k > 0 such that (floor(sqrt(n*k)) + 1)^2 mod n is a square.
+[A362502](https://oeis.org/A362502)   Least k > 0 such that (floor(sqrt(n*k)) + 1)^2 mod n is a square.
 
 [A363612](https://oeis.org/A363612)		Number of iterations of phi(x) at n needed to reach a square.
 
+[A363680](https://oeis.org/A363680)   Number of iterations of phi(x) at n needed to reach a cube.
