@@ -43,4 +43,4 @@
 
 [A363680](https://oeis.org/A363680)   Number of iterations of phi(x) at n needed to reach a cube.
 
-[A363896](https://oeis.org/A363680)		Numbers k such that the sum of primes dividing k (with repetition) is equal to Euler's totient function of k.
+[A363896](https://oeis.org/A363896)		Numbers k such that the sum of primes dividing k (with repetition) is equal to Euler's totient function of k.
