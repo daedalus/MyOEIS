@@ -1,4 +1,4 @@
-# MyOEIS
+/# MyOEIS
 ## My [OEIS](https://oeis.org) published integer sequences ##
 
 [A352881](https://oeis.org/A352881)		a(n) is the minimal number z having the largest number of solutions to the Diophantine equation 1/z = 1/x + 1/y such that 1 <= x <= y <= 10^n.
@@ -42,3 +42,5 @@
 [A363612](https://oeis.org/A363612)		Number of iterations of phi(x) at n needed to reach a square.
 
 [A363680](https://oeis.org/A363680)   Number of iterations of phi(x) at n needed to reach a cube.
+
+[A363896](https://oeis.org/A363680)		Numbers k such that the sum of primes dividing k (with repetition) is equal to Euler's totient function of k.
