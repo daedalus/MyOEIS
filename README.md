@@ -44,3 +44,5 @@
 [A363680](https://oeis.org/A363680)   Number of iterations of phi(x) at n needed to reach a cube.
 
 [A363896](https://oeis.org/A363896)		Numbers k such that the sum of primes dividing k (with repetition) is equal to Euler's totient function of k.
+
+[A363895](https://oeis.org/A363895)	Floor of the average of the distinct prime factors of n.
