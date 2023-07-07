@@ -45,3 +45,5 @@
 22. [A363896](https://oeis.org/A363896) [SeqDB](https://sequencedb.net/s/A363896)		Numbers k such that the sum of primes dividing k (with repetition) is equal to Euler's totient function of k.
 
 23. [A363895](https://oeis.org/A363895) [SeqDB](https://sequencedb.net/s/A363895)		Floor of the average of the distinct prime factors of n.
+
+24. [A362951](https://oeis.org/A362951)[SeqDB](https://sequencedb.net/s/A362951)	a(n) is the Hamming distance between the binary expansions of n and phi(n) where phi is the Euler totient function (A000010).
