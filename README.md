@@ -47,3 +47,4 @@
 23. [A363895](https://oeis.org/A363895) [SeqDB](https://sequencedb.net/s/A363895)		Floor of the average of the distinct prime factors of n.
 
 24. [A362951](https://oeis.org/A362951)[SeqDB](https://sequencedb.net/s/A362951)	a(n) is the Hamming distance between the binary expansions of n and phi(n) where phi is the Euler totient function (A000010).
+25. [A364143](https://oeis.org/A364143) [SeqDB](https://sequencedb.net./s/A364143) a(n) is the minimal number of consecutive squares needed to sum to A216446(n)
