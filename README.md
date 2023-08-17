@@ -52,4 +52,4 @@
 
 26.  [A364168](https://oeis.org/A364168)	[SeqDB](https://sequencedb.net./s/A364168) Numbers that can be written in more than one way in the form (j+2k)^2-(j+k)^2-j^2 with j,k>0.
 
-27. [A364834](https://oeis.org/A364834) (https://sequencedb.net./s/A364834)	Sum of positive integers <= n which are multiples of 2 or 5.
+27. [A364834](https://oeis.org/A364834) [SeqDB](https://sequencedb.net./s/A364834)	Sum of positive integers <= n which are multiples of 2 or 5.
