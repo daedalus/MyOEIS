@@ -59,3 +59,5 @@
 29. [A363583](https://oeis.org/A363583) [SeqDB](https://sequencedb.net./s/A363583)		Numbers k such that 2*phi(k)+k is a prime, where phi is A000010.
 
 30. [A365074](https://oeis.org/A365074) [SeqDB](https://sequencedb.net./s/A365074)		Numbers k such that k! - k^2 - 1 is prime.
+
+31. [A365617](https://oeis.org/A365617) [SeqDB](https://sequencedb.net./s/A365617)		Iterated Pochhammer symbol.
