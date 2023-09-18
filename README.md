@@ -61,3 +61,5 @@
 30. [A365074](https://oeis.org/A365074) [SeqDB](https://sequencedb.net./s/A365074)		Numbers k such that k! - k^2 - 1 is prime.
 
 31. [A365617](https://oeis.org/A365617) [SeqDB](https://sequencedb.net./s/A365617)		Iterated Pochhammer symbol.
+
+32. [A365628](https://oeis.org/A365628)[SeqDB](https://sequencedb.net./s/A365628)  a(n) = binomial(primorial(n), n)
