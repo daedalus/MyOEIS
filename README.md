@@ -67,3 +67,10 @@
 33. [A365749](https://oeis.org/A365749) [SeqDB](https://sequencedb.net/s/A365749)		Number of iterations that produce a record high of the digest of the SHA2-256 hash of the empty string.
 
 34. [A366061](https://oeis.org/A366061) [SeqDB](https://sequencedb.net/s/A366061)		Numbers of iterations that produce a record low of the digest of the SHA2-256 hash of the empty string.
+
+35. [A365639](https://oeis.org/A365639) [SeqDB](https://sequencedb.net/s/A365639)  Numbers k such that k! + k^3 + 1 is prime.
+
+36. [A365686](https://oeis.org/A365686) [SeqDB](https://sequencedb.net/s/A365686)  Numbers k such that there exists a pair of integers (m,h) where 1 <= m < floor(sqrt(k)/2) <= h that satisfy Sum_{j=0..m} (k-j)^2 = Sum_{i=1..m} (h+i)^2.
+
+37. [A366160](https://oeis.org/A366160) [SeqDB](https://sequencedb.net/s/A366160)		Numbers whose binary expansion is not quasiperiodic.
+
