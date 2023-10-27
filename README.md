@@ -74,3 +74,5 @@
 
 37. [A366160](https://oeis.org/A366160) [SeqDB](https://sequencedb.net/s/A366160)		Numbers whose binary expansion is not quasiperiodic.
 
+38. [A364535](https://oeis.org/A364535)[SeqDB](https://sequenced.net/s/A364535)		a(n) is the number of subsets of the first n primes whose sum is not a prime.
+
