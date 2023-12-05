@@ -77,3 +77,5 @@
 38. [A364535](https://oeis.org/A364535) [SeqDB](https://sequencedb.net/s/A364535)		a(n) is the number of subsets of the first n primes whose sum is not a prime.
 
 39. [A367690](https://oeis.org/A367690) [SeqDB](https://sequencedb.net/s/A367690)  Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= x,y <= n.
+
+40. [A367892](https://oeis.org/A367892) [SeqDB](https://sequencedb.net/s/A367892)		Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= y <= x <= n.
