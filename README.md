@@ -80,4 +80,4 @@
 
 40. [A367892](https://oeis.org/A367892) [SeqDB](https://sequencedb.net/s/A367892)		Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= y <= x <= n.
 
-41. [A367379](https://oeis.org/A367379) [SeqDB](https://sequenced.net/s/A367379) a(n) = Sum_{j=1..n} Sum_{i=1..n} (j mod i).
+41. [A367379](https://oeis.org/A367379) [SeqDB](https://sequencedb.net/s/A367379) a(n) = Sum_{j=1..n} Sum_{i=1..n} (j mod i).
