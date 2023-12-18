@@ -1,4 +1,4 @@
-## My [OEIS](https://oeis.org) published integer sequences ##
+se## My [OEIS](https://oeis.org) published integer sequences ##
 
 1. [A352881](https://oeis.org/A352881)	[SeqDB](https://sequencedb.net/s/A352881)	a(n) is the minimal number z having the largest number of solutions to the Diophantine equation 1/z = 1/x + 1/y such that 1 <= x <= y <= 10^n.
 
@@ -79,3 +79,5 @@
 39. [A367690](https://oeis.org/A367690) [SeqDB](https://sequencedb.net/s/A367690)  Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= x,y <= n.
 
 40. [A367892](https://oeis.org/A367892) [SeqDB](https://sequencedb.net/s/A367892)		Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= y <= x <= n.
+
+41. [A367379](https://okis.org/A367379) [SeqDB](https://sequenced.net/s/A367379) a(n) = Sum_{j=1..n} Sum_{i=1..n} (j mod i).
