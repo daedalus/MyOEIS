@@ -54,30 +54,32 @@
 
 27. [A364834](https://oeis.org/A364834) [SeqDB](https://sequencedb.net./s/A364834)	Sum of positive integers <= n which are multiples of 2 or 5.
 
-28. [A359198](https://oeis.org/A359198) [SeqDB](https://sequencedb.net./s/A359198)		Numbers k such that 2*phi(k)-k is a prime, where phi is A000010.
+28. [A359198](https://oeis.org/A359198) [SeqDB](https://sequencedb.net./s/A359198)	Numbers k such that 2*phi(k)-k is a prime, where phi is A000010.
 
-29. [A363583](https://oeis.org/A363583) [SeqDB](https://sequencedb.net./s/A363583)		Numbers k such that 2*phi(k)+k is a prime, where phi is A000010.
+29. [A363583](https://oeis.org/A363583) [SeqDB](https://sequencedb.net./s/A363583)	Numbers k such that 2*phi(k)+k is a prime, where phi is A000010.
 
-30. [A365074](https://oeis.org/A365074) [SeqDB](https://sequencedb.net./s/A365074)		Numbers k such that k! - k^2 - 1 is prime.
+30. [A365074](https://oeis.org/A365074) [SeqDB](https://sequencedb.net./s/A365074)	Numbers k such that k! - k^2 - 1 is prime.
 
-31. [A365617](https://oeis.org/A365617) [SeqDB](https://sequencedb.net./s/A365617)		Iterated Pochhammer symbol.
+31. [A365617](https://oeis.org/A365617) [SeqDB](https://sequencedb.net./s/A365617)	Iterated Pochhammer symbol.
 
-32. [A365628](https://oeis.org/A365628) [SeqDB](https://sequencedb.net./s/A365628)  a(n) = binomial(primorial(n), n).
+32. [A365628](https://oeis.org/A365628) [SeqDB](https://sequencedb.net./s/A365628)	a(n) = binomial(primorial(n), n).
 
-33. [A365749](https://oeis.org/A365749) [SeqDB](https://sequencedb.net/s/A365749)		Number of iterations that produce a record high of the digest of the SHA2-256 hash of the empty string.
+33. [A365749](https://oeis.org/A365749) [SeqDB](https://sequencedb.net/s/A365749)	Number of iterations that produce a record high of the digest of the SHA2-256 hash of the empty string.
 
-34. [A366061](https://oeis.org/A366061) [SeqDB](https://sequencedb.net/s/A366061)		Numbers of iterations that produce a record low of the digest of the SHA2-256 hash of the empty string.
+34. [A366061](https://oeis.org/A366061) [SeqDB](https://sequencedb.net/s/A366061)	Numbers of iterations that produce a record low of the digest of the SHA2-256 hash of the empty string.
 
-35. [A365639](https://oeis.org/A365639) [SeqDB](https://sequencedb.net/s/A365639)  Numbers k such that k! + k^3 + 1 is prime.
+35. [A365639](https://oeis.org/A365639) [SeqDB](https://sequencedb.net/s/A365639)	Numbers k such that k! + k^3 + 1 is prime.
 
-36. [A365686](https://oeis.org/A365686) [SeqDB](https://sequencedb.net/s/A365686)  Numbers k such that there exists a pair of integers (m,h) where 1 <= m < floor(sqrt(k)/2) <= h that satisfy Sum_{j=0..m} (k-j)^2 = Sum_{i=1..m} (h+i)^2.
+36. [A365686](https://oeis.org/A365686) [SeqDB](https://sequencedb.net/s/A365686)	Numbers k such that there exists a pair of integers (m,h) where 1 <= m < floor(sqrt(k)/2) <= h that satisfy Sum_{j=0..m} (k-j)^2 = Sum_{i=1..m} (h+i)^2.
 
-37. [A366160](https://oeis.org/A366160) [SeqDB](https://sequencedb.net/s/A366160)		Numbers whose binary expansion is not quasiperiodic.
+37. [A366160](https://oeis.org/A366160) [SeqDB](https://sequencedb.net/s/A366160)	Numbers whose binary expansion is not quasiperiodic.
 
-38. [A364535](https://oeis.org/A364535) [SeqDB](https://sequencedb.net/s/A364535)		a(n) is the number of subsets of the first n primes whose sum is not a prime.
+38. [A364535](https://oeis.org/A364535) [SeqDB](https://sequencedb.net/s/A364535)	a(n) is the number of subsets of the first n primes whose sum is not a prime.
 
-39. [A367690](https://oeis.org/A367690) [SeqDB](https://sequencedb.net/s/A367690)  Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= x,y <= n.
+39. [A367690](https://oeis.org/A367690) [SeqDB](https://sequencedb.net/s/A367690)	Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= x,y <= n.
 
-40. [A367892](https://oeis.org/A367892) [SeqDB](https://sequencedb.net/s/A367892)		Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= y <= x <= n.
+40. [A367892](https://oeis.org/A367892) [SeqDB](https://sequencedb.net/s/A367892)	Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= y <= x <= n.
 
-41. [A367379](https://oeis.org/A367379) [SeqDB](https://sequencedb.net/s/A367379) a(n) = Sum_{j=1..n} Sum_{i=1..n} (j mod i).
+41. [A367379](https://oeis.org/A367379) [SeqDB](https://sequencedb.net/s/A367379)	a(n) = Sum_{j=1..n} Sum_{i=1..n} (j mod i).
+
+42. [A368275](https://oeis.org/A368275)	[SeqDB](https://sequencedb.net/s/A367379)	Fibonacci zig-zag function.
