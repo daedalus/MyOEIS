@@ -62,7 +62,7 @@
 
 31. [A365617](https://oeis.org/A365617) [SeqDB](https://sequencedb.net./s/A365617)	Iterated Pochhammer symbol.
 
-32. [A365628](https://oeis.org/A365628) [SeqDB](https://sequencedb.net./s/A365628)	a(n) = binomial(primorial(n), n).
+32. [A365628](https://oeis.org/A365628) [SeqDB](https://sequencedb.net./s/A365628) a(n) = binomial(primorial(n), n).
 
 33. [A365749](https://oeis.org/A365749) [SeqDB](https://sequencedb.net/s/A365749)	Number of iterations that produce a record high of the digest of the SHA2-256 hash of the empty string.
 
@@ -84,4 +84,6 @@
 
 42. [A368275](https://oeis.org/A368275)	[SeqDB](https://sequencedb.net/s/A367379)	Fibonacci zig-zag function.
 
-43. [A367954](https://oeis.org/A367954) [SeqDB](https://sequencedb.net/s/A367954) 	Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= x < y <= n.
+43. [A367954](https://oeis.org/A367954) [SeqDB](https://sequencedb.net/s/A367954) Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= x < y <= n.
+
+44. [A369802](https://oeis.org/A369802) [SeqDB](https://sequencedb.net/s/A369802) Inversion count of the Eytzinger array layout of n elements.
