@@ -87,3 +87,5 @@
 43. [A367954](https://oeis.org/A367954) [SeqDB](https://sequencedb.net/s/A367954) Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= x < y <= n.
 
 44. [A369802](https://oeis.org/A369802) [SeqDB](https://sequencedb.net/s/A369802) Inversion count of the Eytzinger array layout of n elements.
+
+45. [A369920](https://oeis.org/A369920) [SeqDB](https://sequencedb.net/s/A369920) The private keys for the 32 BTC Bitcoin puzzle.
