@@ -91,3 +91,6 @@
 45. [A369920](https://oeis.org/A369920) [SeqDB](https://sequencedb.net/s/A369920) The private keys for the 32 BTC Bitcoin puzzle.
 
 46. [A370006](https://oeis.org/A370006) [SeqDB](https://sequencedb.net/s/A370006)	Steinhaus-Johnson-Trotter rank of the Eytzinger array layout of n elements.
+
+47. [A368783](https://oeis.org/A368783) [SeqDB](https://sequencedb.net/s/A368783)		Lexicographic rank of the permutation which is the Eytzinger array layout of n elements.
+A368783		Lexicographic rank of the permutation which is the Eytzinger array layout of n elements.
