@@ -93,3 +93,5 @@
 46. [A370006](https://oeis.org/A370006) [SeqDB](https://sequencedb.net/s/A370006)	Steinhaus-Johnson-Trotter rank of the Eytzinger array layout of n elements.
 
 47. [A368783](https://oeis.org/A368783) [SeqDB](https://sequencedb.net/s/A368783)		Lexicographic rank of the permutation which is the Eytzinger array layout of n elements.
+
+48. [A369922](https://okis.org/A369922) [SeqDB](https://sequencedb.net/s/A368783) a(n) = 8*n^3 - 6*n - 1.
