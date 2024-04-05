@@ -82,7 +82,7 @@
 
 41. [A367379](https://oeis.org/A367379) [SeqDB](https://sequencedb.net/s/A367379)	a(n) = Sum_{j=1..n} Sum_{i=1..n} (j mod i).
 
-42. [A368275](https://oeis.org/A368275)	[SeqDB](https://sequencedb.net/s/A367379)	Fibonacci zig-zag function.
+42. [A368275](https://oeis.org/A368275)	[SeqDB](https://sequencedb.net/s/A368275)	Fibonacci zig-zag function.
 
 43. [A367954](https://oeis.org/A367954) [SeqDB](https://sequencedb.net/s/A367954) Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= x < y <= n.
 
@@ -94,4 +94,4 @@
 
 47. [A368783](https://oeis.org/A368783) [SeqDB](https://sequencedb.net/s/A368783)	Lexicographic rank of the permutation which is the Eytzinger array layout of n elements.
 
-48. [A369922](https://oeis.org/A369922) [SeqDB](https://sequencedb.net/s/A368783) a(n) = 8*n^3 - 6*n - 1.
+48. [A369922](https://oeis.org/A369922) [SeqDB](https://sequencedb.net/s/A36922) a(n) = 8*n^3 - 6*n - 1.
