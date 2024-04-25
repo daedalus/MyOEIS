@@ -95,3 +95,9 @@
 47. [A368783](https://oeis.org/A368783) [SeqDB](https://sequencedb.net/s/A368783)	Lexicographic rank of the permutation which is the Eytzinger array layout of n elements.
 
 48. [A369922](https://oeis.org/A369922) [SeqDB](https://sequencedb.net/s/A36922) a(n) = 8*n^3 - 6*n - 1.
+
+49. [A370879](https://oeis.org/A370879) [SeqDB](https://sequencedb.net/s/A370879) a(n) = 2^n*t + 1 where t is the least x such that there exists an r in the range 2 <= r <= x+1 that is coprime to 2^n*x + 1 and has multiplicative order 2^n modulo 2^n*x + 1.
+
+50. [A371124](https://oeis.org/A371124) [SeqDB](https://sequencedb.net/s/A371124) a(n) is the least nonnegative integer y such that y^2 = x^2 - k*n for k and x where n > k >= 1 and n > x >= floor(sqrt(n)).
+
+51. [A371531](https://oeis.org/A371531) [SeqDB](https://sequencedb.net/s/A371531) a(n) is the multiplicative order of A053669(n) modulo n.
