@@ -101,3 +101,5 @@
 50. [A371124](https://oeis.org/A371124) [SeqDB](https://sequencedb.net/s/A371124) a(n) is the least nonnegative integer y such that y^2 = x^2 - k*n for k and x where n > k >= 1 and n > x >= floor(sqrt(n)).
 
 51. [A371531](https://oeis.org/A371531) [SeqDB](https://sequencedb.net/s/A371531) a(n) is the multiplicative order of A053669(n) modulo n.
+
+52. [A372305](https://oeis.org/A372305) [SeqDB](https://sequencedb.net/s/A372305) a(n) = Product_{k=2..n-1} MultiplicativeOrder(k,n) where gcd(k,n)=1.
