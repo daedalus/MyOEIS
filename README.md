@@ -103,3 +103,5 @@
 51. [A371531](https://oeis.org/A371531) [SeqDB](https://sequencedb.net/s/A371531) a(n) is the multiplicative order of A053669(n) modulo n.
 
 52. [A372305](https://oeis.org/A372305) [SeqDB](https://sequencedb.net/s/A372305) a(n) = Product_{k=2..n-1} MultiplicativeOrder(k,n) where gcd(k,n)=1.
+
+53. [A372651](https://oeis.org/A372651) [SeqDB](https://sequencedb.net/s/A372651)	a(n) is the product of the distinct nonzero quadratic residues of n.
