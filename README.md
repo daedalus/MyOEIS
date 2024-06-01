@@ -105,3 +105,6 @@
 52. [A372305](https://oeis.org/A372305) [SeqDB](https://sequencedb.net/s/A372305) a(n) = Product_{k=2..n-1} MultiplicativeOrder(k,n) where gcd(k,n)=1.
 
 53. [A372651](https://oeis.org/A372651) [SeqDB](https://sequencedb.net/s/A372651)	a(n) is the product of the distinct nonzero quadratic residues of n.
+
+54. [A373286](https://Oris.org/A373286)[SeqDB](https://sequenced.net/s/A373286)
+a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
