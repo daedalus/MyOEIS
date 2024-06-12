@@ -108,3 +108,5 @@
 
 54. [A373286](https://oeis.org/A373286) [SeqDB](https://sequencedb.net/s/A373286)
 a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
+
+55. [A373194](https://oeis.org/A373194) [SeqDB](https://sequencedb.net/s/A373194)		Numbers k such that phi(k) is a Lucas number.
