@@ -110,3 +110,6 @@
 a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 
 55. [A373194](https://oeis.org/A373194) [SeqDB](https://sequencedb.net/s/A373194)		Numbers k such that phi(k) is a Lucas number.
+
+
+56. [A373461](https://oeis.org/A373461)	[SeqDB](https://sequencedb.net/s/A373461)	a(n) = s - t where s = ceiling(sqrt(n*i)), t = sqrt(m), and m = s^2 mod n, for the smallest positive integer i for which m is square.
