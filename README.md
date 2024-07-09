@@ -113,3 +113,5 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 
 
 56. [A373461](https://oeis.org/A373461)	[SeqDB](https://sequencedb.net/s/A373461)	a(n) = s - t where s = ceiling(sqrt(n*i)), t = sqrt(m), and m = s^2 mod n, for the smallest positive integer i for which m is square.
+
+57. [A373879](https://oeis.org/A373879	) [SeqDB](https://sequencedb.net/s/A373879) Composite numbers not factorizable using the Pollard-rho algorithm with parameters x=2,y=2 and f(x)=x^2-1.
