@@ -117,3 +117,5 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 57. [A373879](https://oeis.org/A373879	) [SeqDB](https://sequencedb.net/s/A373879) Composite numbers not factorizable using the Pollard-rho algorithm with parameters x=2,y=2 and f(x)=x^2-1.
 
 58. [A373716](https://oeis.org/A373716) [SeqDB](https://sequencedb.net/s/A373716)		a(n) is the number of distinct products i*j minus the number of distinct sums i+j with 1 <= i, j <= n.
+
+59. [A373652](https://oeis.org/A373652) [SeqDB] (https://sequencedb.bet/s/A373652) 	Composite numbers k for which g = gcd(f(i*c), k) = 1 or k for all i in the range 1 <= i <= c, where f(x) = Product_{j=1..c} x+j and c = floor(k^(1/4)).
