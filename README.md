@@ -119,3 +119,5 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 58. [A373716](https://oeis.org/A373716) [SeqDB](https://sequencedb.net/s/A373716)		a(n) is the number of distinct products i*j minus the number of distinct sums i+j with 1 <= i, j <= n.
 
 59. [A373652](https://oeis.org/A373652) [SeqDB](https://sequencedb.bet/s/A373652) 	Composite numbers k for which g = gcd(f(i*c), k) = 1 or k for all i in the range 1 <= i <= c, where f(x) = Product_{j=1..c} x+j and c = floor(k^(1/4)).
+
+60. [A374625](https://oeis.org/A374625) [SeqDB](https://sequencedb.net/s/A374625)		In the binary expansion of n, expand bits 1 -> 01 and 0 -> 10.
