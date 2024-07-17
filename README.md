@@ -122,4 +122,4 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 
 60. [A374625](https://oeis.org/A374625) [SeqDB](https://sequencedb.net/s/A374625)		In the binary expansion of n, expand bits 1 -> 01 and 0 -> 10.
 
-61. [A374510]	(https://oeis.org/A374510) [SeqDB](https://sequencedb.net/s/A374510)  Sum of those numbers t which have a unique representation as the sum of floor(n/2) distinct squares from among 1^2,...,n^2.
+61. [A374510](https://oeis.org/A374510) [SeqDB](https://sequencedb.net/s/A374510)  Sum of those numbers t which have a unique representation as the sum of floor(n/2) distinct squares from among 1^2,...,n^2.
