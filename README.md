@@ -126,4 +126,4 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 
 62. [A374730](https://oeis.org/A374730) [SeqDB](https://sequencedb.net/s/A374730)  a(n) = n * binomial(floor(log_2(n)) + 1, 2).
 
-63. [A374720](https://oeis.org/A374720) [SeqDB](https://sequencedb.net/s/A374720). Permutation rank of the initial state S of length n in an RC4-like Key Scheduling Algorithm with key comprising numbers 1 to n.
+63. [A374720](https://oeis.org/A374720) [SeqDB](https://sequencedb.net/s/A374720) Permutation rank of the initial state S of length n in an RC4-like Key Scheduling Algorithm with key comprising numbers 1 to n.
