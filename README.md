@@ -131,3 +131,5 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 64. [A375156](https://oeis.org/A375156) [SeqDB](https://sequencedb.net/s/A375156)		In the binary expansion of n: expand bits 1 -> 01 and 0 -> x0 from most to least significant, where x is the complement of the previous bit from n.
 
 65. [A375109](https://oeis.org/A375109) [SeqDB](https://sequencedb.net/s/A375109)		Number of distinct products i*j with 1 <= i, j <= n which are not the sum of two numbers between 1 and n.
+
+66. [A374967](https://oeis.org/A374967). [SeqDB](https://sequencedb.net/s/A374967)  a(n) is the Verhoeff check digit of n
