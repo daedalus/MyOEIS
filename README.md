@@ -129,3 +129,5 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 63. [A374720](https://oeis.org/A374720) [SeqDB](https://sequencedb.net/s/A374720) Permutation rank of the initial state S of length n in an RC4-like Key Scheduling Algorithm with key comprising numbers 1 to n.
 
 64. [A375156](https://oeis.org/A375156) [SeqDB](https://sequencedb.net/A375156)		In the binary expansion of n: expand bits 1 -> 01 and 0 -> x0 from most to least significant, where x is the complement of the previous bit from n.
+
+65. [A375109](https://oeis.org/A375109) [SeqDB](https://sequencedb.net/A375109)		Number of distinct products i*j with 1 <= i, j <= n which are not the sum of two numbers between 1 and n.
