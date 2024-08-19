@@ -132,4 +132,4 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 
 65. [A375109](https://oeis.org/A375109) [SeqDB](https://sequencedb.net/s/A375109)		Number of distinct products i*j with 1 <= i, j <= n which are not the sum of two numbers between 1 and n.
 
-66. [A374967](https://oeis.org/A374967). [SeqDB](https://sequencedb.net/s/A374967)  a(n) is the Verhoeff check digit of n
+66. [A374967](https://oeis.org/A374967) [SeqDB](https://sequencedb.net/s/A374967)  a(n) is the Verhoeff check digit of n
