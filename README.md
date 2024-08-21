@@ -134,4 +134,4 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 
 66. [A374967](https://oeis.org/A374967) [SeqDB](https://sequencedb.net/s/A374967)  a(n) is the Verhoeff check digit of n.
 
-67. [A375585](https://oeis.org/A375585) [SeqDB](https://sequencedb.net/s/A375585). Number of ASCII letter 'A' bytes that when compressed with zlib generate a new record longest compressed byte stream.
+67. [A375585](https://oeis.org/A375585) [SeqDB](https://sequencedb.net/s/A375585) Number of ASCII letter 'A' bytes that when compressed with zlib generate a new record longest compressed byte stream.
