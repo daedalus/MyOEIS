@@ -138,4 +138,4 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 
 68. [A375649](https://oeis.org/A375649) [SeqDB](https://sequencedb.net/s/A375649)		Number of comparisons and swaps in the Batcher odd-even merge sort needed to sort n items.
 
-69. [A375764](https://oeis.org/A375764). [SeqDB](https://sequencedb.net/s/A375764) 	a(n) is the sum of distinct sums of all subsets with two or more elements of {1, 2, ..., n}.
+69. [A375764](https://oeis.org/A375764) [SeqDB](https://sequencedb.net/s/A375764) 	a(n) is the sum of distinct sums of all subsets with two or more elements of {1, 2, ..., n}.
