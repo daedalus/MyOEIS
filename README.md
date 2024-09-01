@@ -139,3 +139,9 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 68. [A375649](https://oeis.org/A375649) [SeqDB](https://sequencedb.net/s/A375649)		Number of comparisons and swaps in the Batcher odd-even merge sort needed to sort n items.
 
 69. [A375764](https://oeis.org/A375764) [SeqDB](https://sequencedb.net/s/A375764) 	a(n) is the sum of distinct sums of all subsets with two or more elements of {1, 2, ..., n}.
+
+70. [A375825](https://or is.org/A375825) [SeqDB] (https://sequencedb.net/s/A375825)  Triangle read by rows where row n is the Eytzinger array layout of n elements (a permutation of {1..n}).
+
+
+71. [A375745](https://oeis.org/A375745) [SeqDB](https://sequencedb.net/s/A375745)  a(n) is the sum of the vector of the reduced discriminant of the n-th cyclotomic polynomial.
+
