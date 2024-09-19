@@ -145,3 +145,5 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 71. [A375745](https://oeis.org/A375745) [SeqDB](https://sequencedb.net/s/A375745)  a(n) is the sum of the vector of the reduced discriminant of the n-th cyclotomic polynomial.
 
 72. [A375789](https://oeis.org/A375789) [SeqDB](https://sequencedb.net/s/A375789) 	First position index for A197123(n) in the decimal expansion of Pi.
+
+73. [A374849](https://oeis.org/A374849) [SeqDB](https://sequencedb.net/s/A374849)	In the binary expansion of n: Collapse bits from most to least significant 10 -> 1, 01 -> 0, 00 -> nothing, 11 -> nothing.
