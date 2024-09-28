@@ -149,3 +149,5 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 73. [A374849](https://oeis.org/A374849) [SeqDB](https://sequencedb.net/s/A374849)	 In the binary expansion of n: Collapse bits from most to least significant 10 -> 1, 01 -> 0, 00 -> nothing, 11 -> nothing.
 
 74. [A375959](https://oeis.org/A375959) [SeqDB](https://sequencedb.net/s/A375959)  Partial products of A006257.
+
+75. [A376295](https://oeis.org/A376295) [SeqDB](https://sequencedb.net/s/A376295)  The binary expansion of a(n) is the reversal of the concatenation of the binary expansions of 1,...,n.
