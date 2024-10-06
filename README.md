@@ -151,3 +151,5 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 74. [A375959](https://oeis.org/A375959) [SeqDB](https://sequencedb.net/s/A375959)  Partial products of A006257.
 
 75. [A376295](https://oeis.org/A376295) [SeqDB](https://sequencedb.net/s/A376295)  The binary expansion of a(n) is the reversal of the concatenation of the binary expansions of 1,...,n.
+
+76. [A376299](https://oeis.org/A376299) [SeqDB](https://sequencedb.net/s/A376299)  Fixed points of A008473.
