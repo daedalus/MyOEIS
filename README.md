@@ -153,3 +153,6 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 75. [A376295](https://oeis.org/A376295) [SeqDB](https://sequencedb.net/s/A376295)  The binary expansion of a(n) is the reversal of the concatenation of the binary expansions of 1,...,n.
 
 76. [A376299](https://oeis.org/A376299) [SeqDB](https://sequencedb.net/s/A376299)  Fixed points of A008473.
+
+77. [A376951](https://oeis.org/A376951) [SeqDB](https://sequencedb.net/s/A376951)
+Characteristic polynomial of the Pappus graph: a(n) = (n-3)*n^4*(n+3)*(n^2-3)^6.
