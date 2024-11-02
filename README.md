@@ -159,3 +159,6 @@ Characteristic polynomial of the Pappus graph: a(n) = (n-3)*n^4*(n+3)*(n^2-3)^6.
 
 78. [A377059](https://oeis.org/A377059) [SeqDB](https://sequencedb.net/s/A377059)
 a(n) is the smallest even r less than n-1 such that x^r = 1 (mod n) for the least x such that gcd(x,n)=1 for n >= 4 else 0.
+
+79. [A377029](https://oeis.org/A377029) [SeqDB](https://sequencedb.net/s/A377029)
+a(1) = 0; therafter in the binary expansion of a(n-1), expand bits: 1->01 and 0->10.
