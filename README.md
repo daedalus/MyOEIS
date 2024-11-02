@@ -162,3 +162,6 @@ a(n) is the smallest even r less than n-1 such that x^r = 1 (mod n) for the leas
 
 79. [A377029](https://oeis.org/A377029) [SeqDB](https://sequencedb.net/s/A377029)
 a(1) = 0; therafter in the binary expansion of a(n-1), expand bits: 1->01 and 0->10.
+
+80. [A376613](https://oeis.org/A376613)  [SeqDB](https://sequencedb.net/s/A376613)
+The binary expansion of a(n) tracks where the merge operations occurs in a Tim sort algorithm applied to n blocks.
