@@ -156,3 +156,6 @@ a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 
 77. [A376951](https://oeis.org/A376951) [SeqDB](https://sequencedb.net/s/A376951)
 Characteristic polynomial of the Pappus graph: a(n) = (n-3)*n^4*(n+3)*(n^2-3)^6.
+
+78. [A377059](https://oeis.org/A377059) [SeqDB](https://sequencedb.net/s/A377059)
+a(n) is the smallest even r less than n-1 such that x^r = 1 (mod n) for the least x such that gcd(x,n)=1 for n >= 4 else 0.
