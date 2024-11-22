@@ -1,40 +1,40 @@
 ## My [OEIS](https://oeis.org) published integer sequences ##
 
-1. [A352881](https://oeis.org/A352881)	[SeqDB](https://sequencedb.net/s/A352881)	a(n) is the minimal number z having the largest number of solutions to the Diophantine equation 1/z = 1/x + 1/y such that 1 <= x <= y <= 10^n.
+1. [A352881](https://oeis.org/A352881)	[SeqDB](https://sequencedb.net/s/A352881) a(n) is the minimal number z having the largest number of solutions to the Diophantine equation 1/z = 1/x + 1/y such that 1 <= x <= y <= 10^n.
 
-2. [A347105](https://oeis.org/A347105)	[SeqDB](https://sequencedb.net/s/A347105)	a(n) is the greatest sum of the digital roots of the individual factorizations of n.
+2. [A347105](https://oeis.org/A347105)	[SeqDB](https://sequencedb.net/s/A347105) a(n) is the greatest sum of the digital roots of the individual factorizations of n.
 
-3. [A355069](https://oeis.org/A355069)	[SeqDB](https://sequencedb.net/s/A355069)	a(n) is the number of solutions to x^y == y^x (mod p) where 0 < x,y <= p^2 - p and p is the n-th prime.
+3. [A355069](https://oeis.org/A355069)	[SeqDB](https://sequencedb.net/s/A355069) a(n) is the number of solutions to x^y == y^x (mod p) where 0 < x,y <= p^2 - p and p is the n-th prime.
 
-4. [A355419](https://oeis.org/A355419)	[SeqDB](https://sequencedb.net/s/A355419)	a(n) is the number of solutions to x^y == y^x (mod p) where 0 < x,y <= p and p is the n-th prime.
+4. [A355419](https://oeis.org/A355419)	[SeqDB](https://sequencedb.net/s/A355419) a(n) is the number of solutions to x^y == y^x (mod p) where 0 < x,y <= p and p is the n-th prime.
 
-5. [A355486](https://oeis.org/A355486)	[SeqDB](https://sequencedb.net/s/A355486)	a(n) is the number of total solutions (minus the n-th prime) to x^y == y^x (mod p) where 0 < x,y <= p and p is the n-th prime.
+5. [A355486](https://oeis.org/A355486)	[SeqDB](https://sequencedb.net/s/A355486) a(n) is the number of total solutions (minus the n-th prime) to x^y == y^x (mod p) where 0 < x,y <= p and p is the n-th prime.
 
-6. [A357945](https://oeis.org/A357945)	[SeqDB](https://sequencedb.net/s/A357945)	Numbers k which are not square but D = (b+c)^2 - k is square, where b = floor(sqrt(k)) and c = k - b^2.	
+6. [A357945](https://oeis.org/A357945)	[SeqDB](https://sequencedb.net/s/A357945) Numbers k which are not square but D = (b+c)^2 - k is square, where b = floor(sqrt(k)) and c = k - b^2.	
 
-7. [A358016](https://oeis.org/A358016)	[SeqDB](https://sequencedb.net/s/A358016)	For n >= 3, a(n) is the largest k <= n-2 such that k^2 == 1 (mod n).
+7. [A358016](https://oeis.org/A358016)	[SeqDB](https://sequencedb.net/s/A358016) For n >= 3, a(n) is the largest k <= n-2 such that k^2 == 1 (mod n).
 
-8. [A357928](https://oeis.org/A357928)	[SeqDB](https://sequencedb.net/s/A357928)	a(n) is the smallest c for which (s+c)^2-n is a square, where s = floor(sqrt(n)), or -1 if no such c exists.
+8. [A357928](https://oeis.org/A357928)	[SeqDB](https://sequencedb.net/s/A357928) a(n) is the smallest c for which (s+c)^2-n is a square, where s = floor(sqrt(n)), or -1 if no such c exists.
 
-9. [A358043](https://oeis.org/A358043)	[SeqDB](https://sequencedb.net/s/A358043)	Numbers k such that phi(k) is a multiple of 8.
+9. [A358043](https://oeis.org/A358043)	[SeqDB](https://sequencedb.net/s/A358043) Numbers k such that phi(k) is a multiple of 8.
 
-10. [A358051](https://oeis.org/A358051)	[SeqDB](https://sequencedb.net/s/A358051)	Squares k such that phi(k) is a cube.
+10. [A358051](https://oeis.org/A358051)	[SeqDB](https://sequencedb.net/s/A358051) Squares k such that phi(k) is a cube.
 
-11. [A359415](https://oeis.org/A359415)	[SeqDB](https://sequencedb.net/s/A359415)	Numbers k such that phi(k) is a 5-smooth number where phi is the Euler totient function.
+11. [A359415](https://oeis.org/A359415)	[SeqDB](https://sequencedb.net/s/A359415) Numbers k such that phi(k) is a 5-smooth number where phi is the Euler totient function.
 
-12. [A359864](https://oeis.org/A359864)	[SeqDB](https://sequencedb.net/s/A359864)	a(n) is the number of solutions to the congruence x^y == y^x (mod n) where 0 <= x,y <= n.
+12. [A359864](https://oeis.org/A359864)	[SeqDB](https://sequencedb.net/s/A359864) a(n) is the number of solutions to the congruence x^y == y^x (mod n) where 0 <= x,y <= n.
 
-13. [A358821](https://oeis.org/A358821)	[SeqDB](https://sequencedb.net/s/A358821)	a(n) is the largest square dividing n^2-1.
+13. [A358821](https://oeis.org/A358821)	[SeqDB](https://sequencedb.net/s/A358821) a(n) is the largest square dividing n^2-1.
 
-14. [A360760](https://oeis.org/A360760)	[SeqDB](https://sequencedb.net/s/A360760)	a(n) = n^16 + n^15 + n^2 + 1 (or crc-16-ibm poly).
+14. [A360760](https://oeis.org/A360760)	[SeqDB](https://sequencedb.net/s/A360760) a(n) = n^16 + n^15 + n^2 + 1 (or crc-16-ibm poly).
 
-15. [A361913](https://oeis.org/A361913)	[SeqDB](https://sequencedb.net/s/A361913)	a(n) is the number of steps in the main loop of the Pollard's rho integer factorization algorithm with x=2, y=2 and g(x)=x^2-1.
+15. [A361913](https://oeis.org/A361913)	[SeqDB](https://sequencedb.net/s/A361913) a(n) is the number of steps in the main loop of the Pollard's rho integer factorization algorithm with x=2, y=2 and g(x)=x^2-1.
 
-16. [A362008](https://oeis.org/A362008)	[SeqDB](https://sequencedb.net/s/A362008)	Numbers whose Euler's cototient is divisible by 9.
+16. [A362008](https://oeis.org/A362008)	[SeqDB](https://sequencedb.net/s/A362008) Numbers whose Euler's cototient is divisible by 9.
 
-17. [A362961](https://oeis.org/A362961)	[SeqDB](https://sequencedb.net/s/A362961)	a(n) = Sum_{b=0..floor(sqrt(n)), n-b^2 is square} b.
+17. [A362961](https://oeis.org/A362961)	[SeqDB](https://sequencedb.net/s/A362961) a(n) = Sum_{b=0..floor(sqrt(n)), n-b^2 is square} b.
 
-18. [A363051](https://oeis.org/A363051)	[SeqDB](https://sequencedb.net/s/A363051)	a(n) = Sum_{b=0..floor(sqrt(n/2)), n-b^2 is square} b.
+18. [A363051](https://oeis.org/A363051)	[SeqDB](https://sequencedb.net/s/A363051) a(n) = Sum_{b=0..floor(sqrt(n/2)), n-b^2 is square} b.
 
 19. [A362502](https://oeis.org/A362502)	[SeqDB](https://sequencedb.net/s/A362502)	Least k > 0 such that (floor(sqrt(n*k)) + 1)^2 mod n is a square.
 
@@ -64,7 +64,7 @@
 
 32. [A365628](https://oeis.org/A365628) [SeqDB](https://sequencedb.net./s/A365628) a(n) = binomial(primorial(n), n).
 
-33. [A365749](https://oeis.org/A365749) [SeqDB](https://sequencedb.net/s/A365749)	Number of iterations that produce a record high of the digest of the SHA2-256 hash of the empty string.
+33. [A365749](https://oeis.org/A365749) [SeqDB](https://sequencedb.net/s/A365749) Number of iterations that produce a record high of the digest of the SHA2-256 hash of the empty string.
 
 34. [A366061](https://oeis.org/A366061) [SeqDB](https://sequencedb.net/s/A366061)	Numbers of iterations that produce a record low of the digest of the SHA2-256 hash of the empty string.
 
@@ -106,62 +106,58 @@
 
 53. [A372651](https://oeis.org/A372651) [SeqDB](https://sequencedb.net/s/A372651)	a(n) is the product of the distinct nonzero quadratic residues of n.
 
-54. [A373286](https://oeis.org/A373286) [SeqDB](https://sequencedb.net/s/A373286)
-a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
+54. [A373286](https://oeis.org/A373286) [SeqDB](https://sequencedb.net/s/A373286) a(n) = Product_{k=1..n} (k^2 mod n if k^2 mod n > 0).
 
-55. [A373194](https://oeis.org/A373194) [SeqDB](https://sequencedb.net/s/A373194)		Numbers k such that phi(k) is a Lucas number.
+55. [A373194](https://oeis.org/A373194) [SeqDB](https://sequencedb.net/s/A373194) Numbers k such that phi(k) is a Lucas number.
 
-
-56. [A373461](https://oeis.org/A373461)	[SeqDB](https://sequencedb.net/s/A373461)	a(n) = s - t where s = ceiling(sqrt(n*i)), t = sqrt(m), and m = s^2 mod n, for the smallest positive integer i for which m is square.
+56. [A373461](https://oeis.org/A373461)	[SeqDB](https://sequencedb.net/s/A373461) a(n) = s - t where s = ceiling(sqrt(n*i)), t = sqrt(m), and m = s^2 mod n, for the smallest positive integer i for which m is square.
 
 57. [A373879](https://oeis.org/A373879	) [SeqDB](https://sequencedb.net/s/A373879) Composite numbers not factorizable using the Pollard-rho algorithm with parameters x=2,y=2 and f(x)=x^2-1.
 
-58. [A373716](https://oeis.org/A373716) [SeqDB](https://sequencedb.net/s/A373716)		a(n) is the number of distinct products i*j minus the number of distinct sums i+j with 1 <= i, j <= n.
+58. [A373716](https://oeis.org/A373716) [SeqDB](https://sequencedb.net/s/A373716) a(n) is the number of distinct products i*j minus the number of distinct sums i+j with 1 <= i, j <= n.
 
-59. [A373652](https://oeis.org/A373652) [SeqDB](https://sequencedb.net/s/A373652) 	Composite numbers k for which g = gcd(f(i*c), k) = 1 or k for all i in the range 1 <= i <= c, where f(x) = Product_{j=1..c} x+j and c = floor(k^(1/4)).
+59. [A373652](https://oeis.org/A373652) [SeqDB](https://sequencedb.net/s/A373652) Composite numbers k for which g = gcd(f(i*c), k) = 1 or k for all i in the range 1 <= i <= c, where f(x) = Product_{j=1..c} x+j and c = floor(k^(1/4)).
 
-60. [A374625](https://oeis.org/A374625) [SeqDB](https://sequencedb.net/s/A374625)		In the binary expansion of n, expand bits 1 -> 01 and 0 -> 10.
+60. [A374625](https://oeis.org/A374625) [SeqDB](https://sequencedb.net/s/A374625) In the binary expansion of n, expand bits 1 -> 01 and 0 -> 10.
 
-61. [A374510](https://oeis.org/A374510) [SeqDB](https://sequencedb.net/s/A374510)  Sum of those numbers t which have a unique representation as the sum of floor(n/2) distinct squares from among 1^2,...,n^2.
+61. [A374510](https://oeis.org/A374510) [SeqDB](https://sequencedb.net/s/A374510) Sum of those numbers t which have a unique representation as the sum of floor(n/2) distinct squares from among 1^2,...,n^2.
 
-62. [A374730](https://oeis.org/A374730) [SeqDB](https://sequencedb.net/s/A374730)  a(n) = n * binomial(floor(log_2(n)) + 1, 2).
+62. [A374730](https://oeis.org/A374730) [SeqDB](https://sequencedb.net/s/A374730) a(n) = n * binomial(floor(log_2(n)) + 1, 2).
 
 63. [A374720](https://oeis.org/A374720) [SeqDB](https://sequencedb.net/s/A374720) Permutation rank of the initial state S of length n in an RC4-like Key Scheduling Algorithm with key comprising numbers 1 to n.
 
-64. [A375156](https://oeis.org/A375156) [SeqDB](https://sequencedb.net/s/A375156)		In the binary expansion of n: expand bits 1 -> 01 and 0 -> x0 from most to least significant, where x is the complement of the previous bit from n.
+64. [A375156](https://oeis.org/A375156) [SeqDB](https://sequencedb.net/s/A375156) In the binary expansion of n: expand bits 1 -> 01 and 0 -> x0 from most to least significant, where x is the complement of the previous bit from n.
 
-65. [A375109](https://oeis.org/A375109) [SeqDB](https://sequencedb.net/s/A375109)		Number of distinct products i*j with 1 <= i, j <= n which are not the sum of two numbers between 1 and n.
+65. [A375109](https://oeis.org/A375109) [SeqDB](https://sequencedb.net/s/A375109) Number of distinct products i*j with 1 <= i, j <= n which are not the sum of two numbers between 1 and n.
 
-66. [A374967](https://oeis.org/A374967) [SeqDB](https://sequencedb.net/s/A374967)  a(n) is the Verhoeff check digit of n.
+66. [A374967](https://oeis.org/A374967) [SeqDB](https://sequencedb.net/s/A374967) a(n) is the Verhoeff check digit of n.
 
 67. [A375585](https://oeis.org/A375585) [SeqDB](https://sequencedb.net/s/A375585) Number of ASCII letter 'A' bytes that when compressed with zlib generate a new record longest compressed byte stream.
 
-68. [A375649](https://oeis.org/A375649) [SeqDB](https://sequencedb.net/s/A375649)		Number of comparisons and swaps in the Batcher odd-even merge sort needed to sort n items.
+68. [A375649](https://oeis.org/A375649) [SeqDB](https://sequencedb.net/s/A375649) Number of comparisons and swaps in the Batcher odd-even merge sort needed to sort n items.
 
-69. [A375764](https://oeis.org/A375764) [SeqDB](https://sequencedb.net/s/A375764) 	a(n) is the sum of distinct sums of all subsets with two or more elements of {1, 2, ..., n}.
+69. [A375764](https://oeis.org/A375764) [SeqDB](https://sequencedb.net/s/A375764) a(n) is the sum of distinct sums of all subsets with two or more elements of {1, 2, ..., n}.
 
-70. [A375825](https://oeis.org/A375825)  [SeqDB](https://sequencedb.net/s/A375825)  Triangle read by rows where row n is the Eytzinger array layout of n elements (a permutation of {1..n}).
+70. [A375825](https://oeis.org/A375825) [SeqDB](https://sequencedb.net/s/A375825) Triangle read by rows where row n is the Eytzinger array layout of n elements (a permutation of {1..n}).
 
-71. [A375745](https://oeis.org/A375745) [SeqDB](https://sequencedb.net/s/A375745)  a(n) is the sum of the vector of the reduced discriminant of the n-th cyclotomic polynomial.
+71. [A375745](https://oeis.org/A375745) [SeqDB](https://sequencedb.net/s/A375745) a(n) is the sum of the vector of the reduced discriminant of the n-th cyclotomic polynomial.
 
-72. [A375789](https://oeis.org/A375789) [SeqDB](https://sequencedb.net/s/A375789) 	First position index for A197123(n) in the decimal expansion of Pi.
+72. [A375789](https://oeis.org/A375789) [SeqDB](https://sequencedb.net/s/A375789) First position index for A197123(n) in the decimal expansion of Pi.
 
-73. [A374849](https://oeis.org/A374849) [SeqDB](https://sequencedb.net/s/A374849)	 In the binary expansion of n: Collapse bits from most to least significant 10 -> 1, 01 -> 0, 00 -> nothing, 11 -> nothing.
+73. [A374849](https://oeis.org/A374849) [SeqDB](https://sequencedb.net/s/A374849) In the binary expansion of n: Collapse bits from most to least significant 10 -> 1, 01 -> 0, 00 -> nothing, 11 -> nothing.
 
-74. [A375959](https://oeis.org/A375959) [SeqDB](https://sequencedb.net/s/A375959)  Partial products of A006257.
+74. [A375959](https://oeis.org/A375959) [SeqDB](https://sequencedb.net/s/A375959) Partial products of A006257.
 
-75. [A376295](https://oeis.org/A376295) [SeqDB](https://sequencedb.net/s/A376295)  The binary expansion of a(n) is the reversal of the concatenation of the binary expansions of 1,...,n.
+75. [A376295](https://oeis.org/A376295) [SeqDB](https://sequencedb.net/s/A376295) The binary expansion of a(n) is the reversal of the concatenation of the binary expansions of 1,...,n.
 
-76. [A376299](https://oeis.org/A376299) [SeqDB](https://sequencedb.net/s/A376299)  Fixed points of A008473.
+76. [A376299](https://oeis.org/A376299) [SeqDB](https://sequencedb.net/s/A376299) Fixed points of A008473.
 
-77. [A376951](https://oeis.org/A376951) [SeqDB](https://sequencedb.net/s/A376951)
-Characteristic polynomial of the Pappus graph: a(n) = (n-3)*n^4*(n+3)*(n^2-3)^6.
+77. [A376951](https://oeis.org/A376951) [SeqDB](https://sequencedb.net/s/A376951) Characteristic polynomial of the Pappus graph: a(n) = (n-3)*n^4*(n+3)*(n^2-3)^6.
 
-78. [A377059](https://oeis.org/A377059) [SeqDB](https://sequencedb.net/s/A377059)
-a(n) is the smallest even r less than n-1 such that x^r = 1 (mod n) for the least x such that gcd(x,n)=1 for n >= 4 else 0.
+78. [A377059](https://oeis.org/A377059) [SeqDB](https://sequencedb.net/s/A377059) a(n) is the smallest even r less than n-1 such that x^r = 1 (mod n) for the least x such that gcd(x,n)=1 for n >= 4 else 0.
 
-79. [A377029](https://oeis.org/A377029) [SeqDB](https://sequencedb.net/s/A377029)
-a(1) = 0; therafter in the binary expansion of a(n-1), expand bits: 1->01 and 0->10.
+79. [A377029](https://oeis.org/A377029) [SeqDB](https://sequencedb.net/s/A377029) a(1) = 0; therafter in the binary expansion of a(n-1), expand bits: 1->01 and 0->10.
 
-80. [A376613](https://oeis.org/A376613)  [SeqDB](https://sequencedb.net/s/A376613)
-The binary expansion of a(n) tracks where the merge operations occurs in a Tim sort algorithm applied to n blocks.
+80. [A376613](https://oeis.org/A376613) [SeqDB](https://sequencedb.net/s/A376613) The binary expansion of a(n) tracks where the merge operations occurs in a Tim sort algorithm applied to n blocks.
+
+81. [A377704](https://oeis.org/A377704) [SeqDB](https://sequencedb.net/s/A377704) a(n) = binomial(Fibonacci(n)+Fibonacci(n+1)-2,Fibonacci(n)-1).
