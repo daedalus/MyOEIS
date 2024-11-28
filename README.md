@@ -161,3 +161,5 @@
 80. [A376613](https://oeis.org/A376613) [SeqDB](https://sequencedb.net/s/A376613) The binary expansion of a(n) tracks where the merge operations occurs in a Tim sort algorithm applied to n blocks.
 
 81. [A377704](https://oeis.org/A377704) [SeqDB](https://sequencedb.net/s/A377704) a(n) = binomial(Fibonacci(n)+Fibonacci(n+1)-2,Fibonacci(n)-1).
+
+82. [A378298](https://oeis.org/A378298) [SeqDB](https://sequencedb.net/s/A378298) Number of solutions that satisfy the congruence: i^2 == j^2 (mod n) with 1 <= i < j <= n.
