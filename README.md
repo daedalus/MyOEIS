@@ -163,3 +163,5 @@
 81. [A377704](https://oeis.org/A377704) [SeqDB](https://sequencedb.net/s/A377704) a(n) = binomial(Fibonacci(n)+Fibonacci(n+1)-2,Fibonacci(n)-1).
 
 82. [A378298](https://oeis.org/A378298) [SeqDB](https://sequencedb.net/s/A378298) Number of solutions that satisfy the congruence: i^2 == j^2 (mod n) with 1 <= i < j <= n.
+
+83. [A378488](https://oeis.org/A378488)  [SeqDB](https://sequecedb.net/s/A378488) Table T(n,k) read by rows where in the n-th row the k-th column is the permutation rank of the k-th solution to the n-queens problem in a n X n board.
