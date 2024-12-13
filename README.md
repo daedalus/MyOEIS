@@ -165,3 +165,5 @@
 82. [A378298](https://oeis.org/A378298) [SeqDB](https://sequencedb.net/s/A378298) Number of solutions that satisfy the congruence: i^2 == j^2 (mod n) with 1 <= i < j <= n.
 
 83. [A378488](https://oeis.org/A378488)  [SeqDB](https://sequecedb.net/s/A378488) Table T(n,k) read by rows where in the n-th row the k-th column is the permutation rank of the k-th solution to the n-queens problem in a n X n board.
+
+84. [A378299](https://oeis.org/A378299) [SeqDB](https://sequencedb.net/s/A378299) Read the binary representation of n from the most to least significant bit then perform a cumulative XOR and store by reading from least to most significant bit.
