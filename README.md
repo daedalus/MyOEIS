@@ -173,3 +173,5 @@
 86. [A379015](https://oeis.org/A379015) [SeqDB](https://sequencedb.net/s/A379015) a(n) is the reversed non-adjacent form (NAF) representation of n.
 
 87. [A379578](https://oeis.org/A379578) [SeqDB](https://sequencedb.net/s/A379578) In the base-4 expansion of n map 0->1, 1->3, 2->0, 3->2.
+
+88. [A377292](https://oeis.org/A377292) [SeqDB](https://sequencedb.net/s/A377292) Terms of A118666 as produced by the program given there (without the final sorting).
