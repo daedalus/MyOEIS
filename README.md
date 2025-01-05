@@ -175,3 +175,6 @@
 87. [A379578](https://oeis.org/A379578) [SeqDB](https://sequencedb.net/s/A379578) In the base-4 expansion of n map 0->1, 1->3, 2->0, 3->2.
 
 88. [A377292](https://oeis.org/A377292) [SeqDB](https://sequencedb.net/s/A377292) Terms of A118666 as produced by the program given there (without the final sorting).
+
+89. [A379604](https://oeis.org/A379604) [SeqDB](https://sequencedb.net/s/A379604)
+a(n) is the maximum number of items in a bucket for the bucket sort algorithm with input {0, 1, ..., n-1} and B = floor(sqrt(n)) buckets.
