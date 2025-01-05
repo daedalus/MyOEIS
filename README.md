@@ -171,3 +171,5 @@
 85. [A379040](https://oeis.org/A379040) [SeqDB](https://sequencedb.net/s/A379040) Fixed points in A379015.
 
 86. [A379015](https://oeis.org/A379015) [SeqDB](https://sequencedb.net/s/A379015) a(n) is the reversed non-adjacent form (NAF) representation of n.
+
+87. [A379578](https://oeis.org/A379578) [SeqDB](https://sequencedb.net/s/A379578) In the base-4 expansion of n map 0->1, 1->3, 2->0, 3->2.
