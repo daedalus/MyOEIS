@@ -176,5 +176,6 @@
 
 88. [A377292](https://oeis.org/A377292) [SeqDB](https://sequencedb.net/s/A377292) Terms of A118666 as produced by the program given there (without the final sorting).
 
-89. [A379604](https://oeis.org/A379604) [SeqDB](https://sequencedb.net/s/A379604)
-a(n) is the maximum number of items in a bucket for the bucket sort algorithm with input {0, 1, ..., n-1} and B = floor(sqrt(n)) buckets.
+89. [A379604](https://oeis.org/A379604) [SeqDB](https://sequencedb.net/s/A379604) a(n) is the maximum number of items in a bucket for the bucket sort algorithm with input {0, 1, ..., n-1} and B = floor(sqrt(n)) buckets.
+
+90. [A379865](https://oeis.org/A379865) [SeqDB](https://sequencedb.net/s/A379865) Number of base 10 digits of A060286.
