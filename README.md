@@ -179,3 +179,5 @@
 89. [A379604](https://oeis.org/A379604) [SeqDB](https://sequencedb.net/s/A379604) a(n) is the maximum number of items in a bucket for the bucket sort algorithm with input {0, 1, ..., n-1} and B = floor(sqrt(n)) buckets.
 
 90. [A379865](https://oeis.org/A379865) [SeqDB](https://sequencedb.net/s/A379865) Number of base 10 digits of A060286.
+
+91. [A379863](https://oeis.org/A379863) [SeqDB](https://sequencedb.net/s/A379863) a(n) is the number of steps in a Pollard rho like integer factorization algorithm for m = 2*n + 1 with f(x) = 2^x mod m and starting from x = y = 1.
