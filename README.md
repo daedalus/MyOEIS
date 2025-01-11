@@ -181,3 +181,7 @@
 90. [A379865](https://oeis.org/A379865) [SeqDB](https://sequencedb.net/s/A379865) Number of base 10 digits of A060286.
 
 91. [A379863](https://oeis.org/A379863) [SeqDB](https://sequencedb.net/s/A379863) a(n) is the number of steps in a Pollard rho like integer factorization algorithm for m = 2*n + 1 with f(x) = 2^x mod m and starting from x = y = 1.
+
+92. [A379740](https://oeis.org/A379740) [SeqDB](https://sequencedb.net/s/A379740) Number of calls to Karatsuba's multiplication algorithm K(x,y) when recursively calculating K(Fibonacci(n),Fibonacci(n+1)) in decimal digits.
+
+93. [A379905](https://oeis.org/A379905) [SeqDB](https://sequencedb.net/s/A379905) Rank of the permutation resulting from a pre-order traversal of a binary tree which is complete except for the final row and has vertices numbered 0 to n-1.
