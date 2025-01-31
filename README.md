@@ -189,3 +189,5 @@
 94. [A377475](https://oeis.org/A377475) [SeqDB](https://sequencedb.net/s/A377475) a(n) is the Even-Rodeh encoding of n as an integer.
 
 95. [A380149](https://oeis.org/A380149)  [SeqDB](https://sequencedb.net/s/A380149) Characteristic polynomial of the tesseract graph: a(n) = n^6*(n^2-16)*(n^2-4)^4.
+
+96. [A380207](https://oeis.org/A380207)  [SeqDB](https://sequences.net/s/A380207) Rank of the partition of n formed by the terms of its binary expansion from largest to smallest
