@@ -48,21 +48,21 @@
 
 24. [A362951](https://oeis.org/A362951)	[SeqDB](https://sequencedb.net/s/A362951)	a(n) is the Hamming distance between the binary expansions of n and phi(n) where phi is the Euler totient function (A000010).
  
-25. [A364143](https://oeis.org/A364143)	[SeqDB](https://sequencedb.net./s/A364143) a(n) is the minimal number of consecutive squares needed to sum to A216446(n)
+25. [A364143](https://oeis.org/A364143)	[SeqDB](https://sequencedb.net/s/A364143) a(n) is the minimal number of consecutive squares needed to sum to A216446(n)
 
-26. [A364168](https://oeis.org/A364168)	[SeqDB](https://sequencedb.net./s/A364168) Numbers that can be written in more than one way in the form (j+2k)^2-(j+k)^2-j^2 with j,k>0.
+26. [A364168](https://oeis.org/A364168)	[SeqDB](https://sequencedb.net/s/A364168) Numbers that can be written in more than one way in the form (j+2k)^2-(j+k)^2-j^2 with j,k>0.
 
-27. [A364834](https://oeis.org/A364834) [SeqDB](https://sequencedb.net./s/A364834)	Sum of positive integers <= n which are multiples of 2 or 5.
+27. [A364834](https://oeis.org/A364834) [SeqDB](https://sequencedb.net/s/A364834)	Sum of positive integers <= n which are multiples of 2 or 5.
 
-28. [A359198](https://oeis.org/A359198) [SeqDB](https://sequencedb.net./s/A359198)	Numbers k such that 2*phi(k)-k is a prime, where phi is A000010.
+28. [A359198](https://oeis.org/A359198) [SeqDB](https://sequencedb.net/s/A359198)	Numbers k such that 2*phi(k)-k is a prime, where phi is A000010.
 
-29. [A363583](https://oeis.org/A363583) [SeqDB](https://sequencedb.net./s/A363583)	Numbers k such that 2*phi(k)+k is a prime, where phi is A000010.
+29. [A363583](https://oeis.org/A363583) [SeqDB](https://sequencedb.net/s/A363583)	Numbers k such that 2*phi(k)+k is a prime, where phi is A000010.
 
-30. [A365074](https://oeis.org/A365074) [SeqDB](https://sequencedb.net./s/A365074)	Numbers k such that k! - k^2 - 1 is prime.
+30. [A365074](https://oeis.org/A365074) [SeqDB](https://sequencedb.net/s/A365074)	Numbers k such that k! - k^2 - 1 is prime.
 
-31. [A365617](https://oeis.org/A365617) [SeqDB](https://sequencedb.net./s/A365617)	Iterated Pochhammer symbol.
+31. [A365617](https://oeis.org/A365617) [SeqDB](https://sequencedb.net/s/A365617)	Iterated Pochhammer symbol.
 
-32. [A365628](https://oeis.org/A365628) [SeqDB](https://sequencedb.net./s/A365628) a(n) = binomial(primorial(n), n).
+32. [A365628](https://oeis.org/A365628) [SeqDB](https://sequencedb.net/s/A365628) a(n) = binomial(primorial(n), n).
 
 33. [A365749](https://oeis.org/A365749) [SeqDB](https://sequencedb.net/s/A365749) Number of iterations that produce a record high of the digest of the SHA2-256 hash of the empty string.
 
@@ -94,7 +94,7 @@
 
 47. [A368783](https://oeis.org/A368783) [SeqDB](https://sequencedb.net/s/A368783)	Lexicographic rank of the permutation which is the Eytzinger array layout of n elements.
 
-48. [A369922](https://oeis.org/A369922) [SeqDB](https://sequencedb.net/s/A36922) a(n) = 8*n^3 - 6*n - 1.
+48. [A369922](https://oeis.org/A369922) [SeqDB](https://sequencedb.net/s/A369922) a(n) = 8*n^3 - 6*n - 1.
 
 49. [A370879](https://oeis.org/A370879) [SeqDB](https://sequencedb.net/s/A370879) a(n) = 2^n*t + 1 where t is the least x such that there exists an r in the range 2 <= r <= x+1 that is coprime to 2^n*x + 1 and has multiplicative order 2^n modulo 2^n*x + 1.
 
@@ -112,7 +112,7 @@
 
 56. [A373461](https://oeis.org/A373461)	[SeqDB](https://sequencedb.net/s/A373461) a(n) = s - t where s = ceiling(sqrt(n*i)), t = sqrt(m), and m = s^2 mod n, for the smallest positive integer i for which m is square.
 
-57. [A373879](https://oeis.org/A373879	) [SeqDB](https://sequencedb.net/s/A373879) Composite numbers not factorizable using the Pollard-rho algorithm with parameters x=2,y=2 and f(x)=x^2-1.
+57. [A373879](https://oeis.org/A373879) [SeqDB](https://sequencedb.net/s/A373879) Composite numbers not factorizable using the Pollard-rho algorithm with parameters x=2,y=2 and f(x)=x^2-1.
 
 58. [A373716](https://oeis.org/A373716) [SeqDB](https://sequencedb.net/s/A373716) a(n) is the number of distinct products i*j minus the number of distinct sums i+j with 1 <= i, j <= n.
 
@@ -164,7 +164,7 @@
 
 82. [A378298](https://oeis.org/A378298) [SeqDB](https://sequencedb.net/s/A378298) Number of solutions that satisfy the congruence: i^2 == j^2 (mod n) with 1 <= i < j <= n.
 
-83. [A378488](https://oeis.org/A378488)  [SeqDB](https://sequecedb.net/s/A378488) Table T(n,k) read by rows where in the n-th row the k-th column is the permutation rank of the k-th solution to the n-queens problem in a n X n board.
+83. [A378488](https://oeis.org/A378488) [SeqDB](https://sequecedb.net/s/A378488) Table T(n,k) read by rows where in the n-th row the k-th column is the permutation rank of the k-th solution to the n-queens problem in a n X n board.
 
 84. [A378299](https://oeis.org/A378299) [SeqDB](https://sequencedb.net/s/A378299) Read the binary representation of n from the most to least significant bit then perform a cumulative XOR and store by reading from least to most significant bit.
 
@@ -188,6 +188,6 @@
 
 94. [A377475](https://oeis.org/A377475) [SeqDB](https://sequencedb.net/s/A377475) a(n) is the Even-Rodeh encoding of n as an integer.
 
-95. [A380149](https://oeis.org/A380149)  [SeqDB](https://sequencedb.net/s/A380149) Characteristic polynomial of the tesseract graph: a(n) = n^6*(n^2-16)*(n^2-4)^4.
+95. [A380149](https://oeis.org/A380149) [SeqDB](https://sequencedb.net/s/A380149) Characteristic polynomial of the tesseract graph: a(n) = n^6*(n^2-16)*(n^2-4)^4.
 
-96. [A380207](https://oeis.org/A380207)  [SeqDB](https://sequences.net/s/A380207) Rank of the partition of n formed by the terms of its binary expansion from largest to smallest
+96. [A380207](https://oeis.org/A380207) [SeqDB](https://sequencedb.net/s/A380207) Rank of the partition of n formed by the terms of its binary expansion from largest to smallest
