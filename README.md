@@ -191,3 +191,7 @@
 95. [A380149](https://oeis.org/A380149) [SeqDB](https://sequencedb.net/s/A380149) Characteristic polynomial of the tesseract graph: a(n) = n^6*(n^2-16)*(n^2-4)^4.
 
 96. [A380207](https://oeis.org/A380207) [SeqDB](https://sequencedb.net/s/A380207) Rank of the partition of n formed by the terms of its binary expansion from largest to smallest
+
+97. [A380294](https://oeis.org/A380294) [SeqDB](https://sequencedb.net/s/A380294) The Golomb-Rice encoding of n, with M = A070939(A070939(n)).
+
+98. [A380145](https://oeis.org/A380145) [SeqDB](https://sequencedb.net/s/A380145) The binary expansion of a(n) is an initial 1 bit then tracks where the swaps occur in the exchange sort algorithm sorting the binary expansion of n into decreasing order.
