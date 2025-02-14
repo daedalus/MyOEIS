@@ -197,3 +197,6 @@
 98. [A380145](https://oeis.org/A380145) [SeqDB](https://sequencedb.net/s/A380145) The binary expansion of a(n) is an initial 1 bit then tracks where the swaps occur in the exchange sort algorithm sorting the binary expansion of n into decreasing order.
 
 99. [A380790](https://oeis.org/A380790) [SeqDB](https://sequencedb.net/s/A380790) Length of the n-th Golomb ruler constructed by the Paul Erdős and Pál Turán formula.
+
+100. [A380856](https://oeis.org/A380856) [SeqDB](https://sequencedb.net/s/A380856)
+In the binary expansion of n, arrange bits row-wise in a binary tree which is complete except for the last row and then read those bits in pre-order
