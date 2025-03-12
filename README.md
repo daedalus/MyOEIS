@@ -203,3 +203,6 @@
 101. [A380110](https://oeis.org/A380110) [SeqDB](https://sequencedb.net/s/A380110) In the base 4 expansion of n: map 0->0, 1->1, 2->1, 3->2.
 
 102. [A381056](https://oeis.org/A381056) [SeqDB](https://sequencedb.net/s/A381056) Product of row n of A329708.
+
+103. [A381503](https://Oeis.org/A381503) [SeqDB](https://sequencedb.net/A381503)
+Number of rectangles in a Fibonacci(n) X Fibonacci(n+1) grid.
