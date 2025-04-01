@@ -206,3 +206,6 @@
 
 103. [A381503](https://Oeis.org/A381503) [SeqDB](https://sequencedb.net/A381503)
 Number of rectangles in a Fibonacci(n) X Fibonacci(n+1) grid.
+
+104. [A381457](https://oeis.org/A381457) [SeqDB](https://sequencedb.net/A381457) 
+Integers encoding the recursive structure of a bitonic sorter network of n elements in their binary expansion.
