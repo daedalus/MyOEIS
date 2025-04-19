@@ -210,4 +210,4 @@ Number of rectangles in a Fibonacci(n) X Fibonacci(n+1) grid.
 104. [A381457](https://oeis.org/A381457) [SeqDB](https://sequencedb.net/s/A381457) 
 Integers encoding the recursive structure of a bitonic sorter network of n elements in their binary expansion.
 
-105. [A382221](https://oeis.org/A382221)[SeqDB](https://sequencedb.net/s/A382221) Products of primitive roots when n is 2, 4, p^k, or 2p^k (with p an odd prime), for all other n the value is defined to be 1.
+105. [A382221](https://oeis.org/A382221) [SeqDB](https://sequencedb.net/s/A382221) Products of primitive roots when n is 2, 4, p^k, or 2p^k (with p an odd prime), for all other n the value is defined to be 1.
