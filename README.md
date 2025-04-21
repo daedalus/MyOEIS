@@ -200,7 +200,7 @@
 
 100. [A380856](https://oeis.org/A380856) [SeqDB](https://sequencedb.net/s/A380856) In the binary expansion of n, arrange bits row-wise in a binary tree which is complete except for the last row and then read those bits in pre-order. [Graph](https://oeis.org/A380856/graph)
 
-101. [A380110](https://oeis.org/A380110) [SeqDB](https://sequencedb.net/s/A380110) In the base 4 expansion of n: map 0->0, 1->1, 2->1, 3->2.
+101. [A380110](https://oeis.org/A380110) [SeqDB](https://sequencedb.net/s/A380110) In the base 4 expansion of n: map 0->0, 1->1, 2->1, 3->2.  [Graph](https://oeis.org/A380110/graph)
 
 102. [A381056](https://oeis.org/A381056) [SeqDB](https://sequencedb.net/s/A381056) Product of row n of A329708.
 
