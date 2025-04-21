@@ -170,7 +170,7 @@
 
 85. [A379040](https://oeis.org/A379040) [SeqDB](https://sequencedb.net/s/A379040) Fixed points in A379015.
 
-86. [A379015](https://oeis.org/A379015) [SeqDB](https://sequencedb.net/s/A379015) a(n) is the reversed non-adjacent form (NAF) representation of n.
+86. [A379015](https://oeis.org/A379015) [SeqDB](https://sequencedb.net/s/A379015) a(n) is the reversed non-adjacent form (NAF) representation of n. [Graph](https://oeis.org/A379015/graph).
 
 87. [A379578](https://oeis.org/A379578) [SeqDB](https://sequencedb.net/s/A379578) In the base-4 expansion of n map 0->1, 1->3, 2->0, 3->2.  [Graph](https://oeis.org/A379578/graph).
 
@@ -204,10 +204,8 @@
 
 102. [A381056](https://oeis.org/A381056) [SeqDB](https://sequencedb.net/s/A381056) Product of row n of A329708.
 
-103. [A381503](https://Oeis.org/A381503) [SeqDB](https://sequencedb.net/s/A381503)
-Number of rectangles in a Fibonacci(n) X Fibonacci(n+1) grid.
+103. [A381503](https://Oeis.org/A381503) [SeqDB](https://sequencedb.net/s/A381503) Number of rectangles in a Fibonacci(n) X Fibonacci(n+1) grid.
 
-104. [A381457](https://oeis.org/A381457) [SeqDB](https://sequencedb.net/s/A381457) 
-Integers encoding the recursive structure of a bitonic sorter network of n elements in their binary expansion.
+104. [A381457](https://oeis.org/A381457) [SeqDB](https://sequencedb.net/s/A381457) Integers encoding the recursive structure of a bitonic sorter network of n elements in their binary expansion.
 
 105. [A382221](https://oeis.org/A382221) [SeqDB](https://sequencedb.net/s/A382221) Products of primitive roots when n is 2, 4, p^k, or 2p^k (with p an odd prime), for all other n the value is defined to be 1.
