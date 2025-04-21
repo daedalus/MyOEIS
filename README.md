@@ -172,7 +172,7 @@
 
 86. [A379015](https://oeis.org/A379015) [SeqDB](https://sequencedb.net/s/A379015) a(n) is the reversed non-adjacent form (NAF) representation of n.
 
-87. [A379578](https://oeis.org/A379578) [SeqDB](https://sequencedb.net/s/A379578) In the base-4 expansion of n map 0->1, 1->3, 2->0, 3->2.
+87. [A379578](https://oeis.org/A379578) [SeqDB](https://sequencedb.net/s/A379578) In the base-4 expansion of n map 0->1, 1->3, 2->0, 3->2.  [Graph](https://oeis.org/A379578/graph).
 
 88. [A377292](https://oeis.org/A377292) [SeqDB](https://sequencedb.net/s/A377292) Terms of A118666 as produced by the program given there (without the final sorting).
 
@@ -198,9 +198,9 @@
 
 99. [A380790](https://oeis.org/A380790) [SeqDB](https://sequencedb.net/s/A380790) Length of the n-th Golomb ruler constructed by the Paul Erdős and Pál Turán formula.
 
-100. [A380856](https://oeis.org/A380856) [SeqDB](https://sequencedb.net/s/A380856) In the binary expansion of n, arrange bits row-wise in a binary tree which is complete except for the last row and then read those bits in pre-order. [Graph](https://oeis.org/A380856/graph)
+100. [A380856](https://oeis.org/A380856) [SeqDB](https://sequencedb.net/s/A380856) In the binary expansion of n, arrange bits row-wise in a binary tree which is complete except for the last row and then read those bits in pre-order. [Graph](https://oeis.org/A380856/graph).
 
-101. [A380110](https://oeis.org/A380110) [SeqDB](https://sequencedb.net/s/A380110) In the base 4 expansion of n: map 0->0, 1->1, 2->1, 3->2.  [Graph](https://oeis.org/A380110/graph)
+101. [A380110](https://oeis.org/A380110) [SeqDB](https://sequencedb.net/s/A380110) In the base 4 expansion of n: map 0->0, 1->1, 2->1, 3->2.  [Graph](https://oeis.org/A380110/graph).
 
 102. [A381056](https://oeis.org/A381056) [SeqDB](https://sequencedb.net/s/A381056) Product of row n of A329708.
 
