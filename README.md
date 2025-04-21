@@ -32,11 +32,11 @@
 
 16. [A362008](https://oeis.org/A362008)	[SeqDB](https://sequencedb.net/s/A362008) Numbers whose Euler's cototient is divisible by 9.
 
-17. [A362961](https://oeis.org/A362961)	[SeqDB](https://sequencedb.net/s/A362961) a(n) = Sum_{b=0..floor(sqrt(n)), n-b^2 is square} b.
+17. [A362961](https://oeis.org/A362961)	[SeqDB](https://sequencedb.net/s/A362961) a(n) = Sum_{b=0..floor(sqrt(n)), n-b^2 is square} b. [Graph](https://oeis.org/A362961/graph).
 
 18. [A363051](https://oeis.org/A363051)	[SeqDB](https://sequencedb.net/s/A363051) a(n) = Sum_{b=0..floor(sqrt(n/2)), n-b^2 is square} b.
 
-19. [A362502](https://oeis.org/A362502)	[SeqDB](https://sequencedb.net/s/A362502)	Least k > 0 such that (floor(sqrt(n*k)) + 1)^2 mod n is a square.
+19. [A362502](https://oeis.org/A362502)	[SeqDB](https://sequencedb.net/s/A362502)	Least k > 0 such that (floor(sqrt(n*k)) + 1)^2 mod n is a square. [Graph](https://oeis.org/A362502/graph).
 
 20. [A363612](https://oeis.org/A363612) [SeqDB](https://sequencedb.net/s/A363612)	Number of iterations of phi(x) at n needed to reach a square.
 
@@ -78,9 +78,9 @@
 
 39. [A367690](https://oeis.org/A367690) [SeqDB](https://sequencedb.net/s/A367690)	Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= x,y <= n.
 
-40. [A367892](https://oeis.org/A367892) [SeqDB](https://sequencedb.net/s/A367892)	Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= y <= x <= n.
+40. [A367892](https://oeis.org/A367892) [SeqDB](https://sequencedb.net/s/A367892)	Total number of steps of Euclid's GCD algorithm to calculate gcd(x,y) for all pairs x,y in the range 1 <= y <= x <= n. [Grah](https://oeis.org/A367892/graph).
 
-41. [A367379](https://oeis.org/A367379) [SeqDB](https://sequencedb.net/s/A367379)	a(n) = Sum_{j=1..n} Sum_{i=1..n} (j mod i).
+41. [A367379](https://oeis.org/A367379) [SeqDB](https://sequencedb.net/s/A367379)	a(n) = Sum_{j=1..n} Sum_{i=1..n} (j mod i). [Graph](https://oeis.org/A367379/graph).
 
 42. [A368275](https://oeis.org/A368275)	[SeqDB](https://sequencedb.net/s/A368275)	Fibonacci zig-zag function.
 
@@ -118,7 +118,7 @@
 
 59. [A373652](https://oeis.org/A373652) [SeqDB](https://sequencedb.net/s/A373652) Composite numbers k for which g = gcd(f(i*c), k) = 1 or k for all i in the range 1 <= i <= c, where f(x) = Product_{j=1..c} x+j and c = floor(k^(1/4)).
 
-60. [A374625](https://oeis.org/A374625) [SeqDB](https://sequencedb.net/s/A374625) In the binary expansion of n, expand bits 1 -> 01 and 0 -> 10.
+60. [A374625](https://oeis.org/A374625) [SeqDB](https://sequencedb.net/s/A374625) In the binary expansion of n, expand bits 1 -> 01 and 0 -> 10. [Graph](https://oeis.org/A374625/graph).
 
 61. [A374510](https://oeis.org/A374510) [SeqDB](https://sequencedb.net/s/A374510) Sum of those numbers t which have a unique representation as the sum of floor(n/2) distinct squares from among 1^2,...,n^2.
 
@@ -136,7 +136,7 @@
 
 68. [A375649](https://oeis.org/A375649) [SeqDB](https://sequencedb.net/s/A375649) Number of comparisons and swaps in the Batcher odd-even merge sort needed to sort n items.
 
-69. [A375764](https://oeis.org/A375764) [SeqDB](https://sequencedb.net/s/A375764) a(n) is the sum of distinct sums of all subsets with two or more elements of {1, 2, ..., n}.
+69. [A375764](https://oeis.org/A375764) [SeqDB](https://sequencedb.net/s/A375764) a(n) is the sum of distinct sums of all subsets with two or more elements of {1, 2, ..., n}. [Graph](https://oeis.org/A375764/graph).
 
 70. [A375825](https://oeis.org/A375825) [SeqDB](https://sequencedb.net/s/A375825) Triangle read by rows where row n is the Eytzinger array layout of n elements (a permutation of {1..n}).
 
@@ -144,7 +144,7 @@
 
 72. [A375789](https://oeis.org/A375789) [SeqDB](https://sequencedb.net/s/A375789) First position index for A197123(n) in the decimal expansion of Pi.
 
-73. [A374849](https://oeis.org/A374849) [SeqDB](https://sequencedb.net/s/A374849) In the binary expansion of n: Collapse bits from most to least significant 10 -> 1, 01 -> 0, 00 -> nothing, 11 -> nothing.
+73. [A374849](https://oeis.org/A374849) [SeqDB](https://sequencedb.net/s/A374849) In the binary expansion of n: Collapse bits from most to least significant 10 -> 1, 01 -> 0, 00 -> nothing, 11 -> nothing. [Graph](https://oeis.org/A374849/graph)
 
 74. [A375959](https://oeis.org/A375959) [SeqDB](https://sequencedb.net/s/A375959) Partial products of A006257.
 
@@ -152,9 +152,9 @@
 
 76. [A376299](https://oeis.org/A376299) [SeqDB](https://sequencedb.net/s/A376299) Fixed points of A008473.
 
-77. [A376951](https://oeis.org/A376951) [SeqDB](https://sequencedb.net/s/A376951) Characteristic polynomial of the Pappus graph: a(n) = (n-3)*n^4*(n+3)*(n^2-3)^6.
+77. [A376951](https://oeis.org/A376951) [SeqDB](https://sequencedb.net/s/A376951) Characteristic polynomial of the Pappus graph: a(n) = (n-3)*n^4*(n+3)*(n^2-3)^6. [Graph](https://oeis.org/A376951/graph).
 
-78. [A377059](https://oeis.org/A377059) [SeqDB](https://sequencedb.net/s/A377059) a(n) is the smallest even r less than n-1 such that x^r = 1 (mod n) for the least x such that gcd(x,n)=1 for n >= 4 else 0.
+78. [A377059](https://oeis.org/A377059) [SeqDB](https://sequencedb.net/s/A377059) a(n) is the smallest even r less than n-1 such that x^r = 1 (mod n) for the least x such that gcd(x,n)=1 for n >= 4 else 0. [Graph](https://oeis.org/A377059/graph).
 
 79. [A377029](https://oeis.org/A377029) [SeqDB](https://sequencedb.net/s/A377029) a(1) = 0; therafter in the binary expansion of a(n-1), expand bits: 1->01 and 0->10.
 
@@ -162,7 +162,7 @@
 
 81. [A377704](https://oeis.org/A377704) [SeqDB](https://sequencedb.net/s/A377704) a(n) = binomial(Fibonacci(n)+Fibonacci(n+1)-2,Fibonacci(n)-1).
 
-82. [A378298](https://oeis.org/A378298) [SeqDB](https://sequencedb.net/s/A378298) Number of solutions that satisfy the congruence: i^2 == j^2 (mod n) with 1 <= i < j <= n.
+82. [A378298](https://oeis.org/A378298) [SeqDB](https://sequencedb.net/s/A378298) Number of solutions that satisfy the congruence: i^2 == j^2 (mod n) with 1 <= i < j <= n. [Graph](https://oeis.org/A378298/graph).
 
 83. [A378488](https://oeis.org/A378488) [SeqDB](https://sequecedb.net/s/A378488) Table T(n,k) read by rows where in the n-th row the k-th column is the permutation rank of the k-th solution to the n-queens problem in a n X n board.
 
