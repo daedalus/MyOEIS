@@ -209,3 +209,6 @@
 104. [A381457](https://oeis.org/A381457) [SeqDB](https://sequencedb.net/s/A381457) Integers encoding the recursive structure of a bitonic sorter network of n elements in their binary expansion.
 
 105. [A382221](https://oeis.org/A382221) [SeqDB](https://sequencedb.net/s/A382221) Products of primitive roots when n is 2, 4, p^k, or 2p^k (with p an odd prime), for all other n the value is defined to be 1.
+
+106. [A380934](https://pris.org/A380934) [SeqDB](https://sequencedb.net/s/A380934)
+Elias delta encoding of n converted from base 2 to integer.
