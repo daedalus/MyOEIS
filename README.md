@@ -212,3 +212,9 @@
 
 106. [A380934](https://oeis.org/A380934) [SeqDB](https://sequencedb.net/s/A380934)
 Elias delta encoding of n converted from base 2 to integer.
+
+107. A375584
+a(n) = digit produced when the Michael Damm error-detecting algorithm is applied to n.
+
+108. A358489
+Numbers k such that phi(k) = 13! where phi is the Euler totient function (A000010).
