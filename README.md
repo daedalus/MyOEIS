@@ -218,3 +218,6 @@ a(n) = digit produced when the Michael Damm error-detecting algorithm is applied
 
 108. [A358489](https://oeis.org/A358489) [SeqDB](https://sequencedb.net/s/A358489)
 Numbers k such that phi(k) = 13! where phi is the Euler totient function (A000010).
+
+109. [A383270](https://oeis.org/A383270)
+Length of the longest sequence of contiguous 1s in the binary expansion of n after flipping at most one 0-bit to 1.
