@@ -164,7 +164,7 @@
 
 82. [A378298](https://oeis.org/A378298) [SeqDB](https://sequencedb.net/s/A378298) Number of solutions that satisfy the congruence: i^2 == j^2 (mod n) with 1 <= i < j <= n. [Graph](https://oeis.org/A378298/graph).
 
-83. [A378488](https://oeis.org/A378488) [SeqDB](https://sequecedb.net/s/A378488) Table T(n,k) read by rows where in the n-th row the k-th column is the permutation rank of the k-th solution to the n-queens problem in a n X n board.
+83. [A378488](https://oeis.org/A378488) [SeqDB](https://sequencedb.net/s/A378488) Table T(n,k) read by rows where in the n-th row the k-th column is the permutation rank of the k-th solution to the n-queens problem in a n X n board.
 
 84. [A378299](https://oeis.org/A378299) [SeqDB](https://sequencedb.net/s/A378299) Read the binary representation of n from the most to least significant bit then perform a cumulative XOR and store by reading from least to most significant bit. [Graph](https://oeis.org/A378299/graph).
 
@@ -210,14 +210,10 @@
 
 105. [A382221](https://oeis.org/A382221) [SeqDB](https://sequencedb.net/s/A382221) Products of primitive roots when n is 2, 4, p^k, or 2p^k (with p an odd prime), for all other n the value is defined to be 1.
 
-106. [A380934](https://oeis.org/A380934) [SeqDB](https://sequencedb.net/s/A380934)
-Elias delta encoding of n converted from base 2 to integer.
+106. [A380934](https://oeis.org/A380934) [SeqDB](https://sequencedb.net/s/A380934) Elias delta encoding of n converted from base 2 to integer.
 
-107. [A375584](https://oeis.org/A375584) [SeqDB](https://sequencedb.net/s/A375584)
-a(n) = digit produced when the Michael Damm error-detecting algorithm is applied to n.
+107. [A375584](https://oeis.org/A375584) [SeqDB](https://sequencedb.net/s/A375584) a(n) = digit produced when the Michael Damm error-detecting algorithm is applied to n.
 
-108. [A358489](https://oeis.org/A358489) [SeqDB](https://sequencedb.net/s/A358489)
-Numbers k such that phi(k) = 13! where phi is the Euler totient function (A000010).
+108. [A358489](https://oeis.org/A358489) [SeqDB](https://sequencedb.net/s/A358489) Numbers k such that phi(k) = 13! where phi is the Euler totient function (A000010).
 
-109. [A383270](https://oeis.org/A383270)
-Length of the longest sequence of contiguous 1s in the binary expansion of n after flipping at most one 0-bit to 1.
+109. [A383270](https://oeis.org/A383270) [SeqDB](https://sequencedb.net/s/A383270) Length of the longest sequence of contiguous 1s in the binary expansion of n after flipping at most one 0-bit to 1.
