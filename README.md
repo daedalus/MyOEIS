@@ -218,5 +218,4 @@
 
 109. [A383270](https://oeis.org/A383270) [SeqDB](https://sequencedb.net/s/A383270) Length of the longest sequence of contiguous 1s in the binary expansion of n after flipping at most one 0-bit to 1.
 
-110. [A383252](](https://oeis.org/A383252)
-Numbers that cannot be written in the form (j+2k)^2-(j+k)^2-j^2 with j,k>0.
+110. [A383252](https://oeis.org/A383252) [SeqDB](https://sequencedb.net/s/A383252) Numbers that cannot be written in the form (j+2k)^2-(j+k)^2-j^2 with j,k>0.
