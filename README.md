@@ -220,5 +220,4 @@
 
 110. [A383252](https://oeis.org/A383252) [SeqDB](https://sequencedb.net/s/A383252) Numbers that cannot be written in the form (j+2k)^2-(j+k)^2-j^2 with j,k>0.
 
-111. A383738
-Number of solutions to the n-queens puzzle in a n X n board that are not square root permutations of {n-1,...,2,1,0}.
+111. [A383738](https://oeis.org/A383738) [SeqDB](https://sequencedb.net/s/A383738) Number of solutions to the n-queens puzzle in a n X n board that are not square root permutations of {n-1,...,2,1,0}.
