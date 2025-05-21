@@ -223,3 +223,5 @@
 111. [A383738](https://oeis.org/A383738) [SeqDB](https://sequencedb.net/s/A383738) Number of solutions to the n-queens puzzle in a n X n board that are not square root permutations of {n-1,...,2,1,0}.
 
 112. [A383835](https://oeis.org/A383835) [SeqDB](https://sequencedb.net/s/A383835) Number of permutations of [n] whose compositional square is the identity permutation or its reverse.
+
+113. A383909 In the base 4 expansion of n, map: 0 -> 20, 1 -> 21, 2 -> 30, 3 -> 31
