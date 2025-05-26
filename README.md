@@ -227,3 +227,6 @@
 113. [A383909](https://oeis.org/A383909) [SeqDB](https://sequencedb.net/s/A383909) In the base 4 expansion of n, map: 0 -> 20, 1 -> 21, 2 -> 30, 3 -> 31.
 
 114. [A383976](https://oeis.org/A383976) [SeqDB](https://sequencedb.net/s/A383976) In the binary expansion of n, expand bits 1 -> 11 and 0 -> 10.
+
+A384330
+Number of distinct subsets S of [n] such that for all 1 <= k <= n, there exist elements x,y in S (not necessarily distinct) such that x*y = 2k.
