@@ -228,5 +228,4 @@
 
 114. [A383976](https://oeis.org/A383976) [SeqDB](https://sequencedb.net/s/A383976) In the binary expansion of n, expand bits 1 -> 11 and 0 -> 10.
 
-A384330
-Number of distinct subsets S of [n] such that for all 1 <= k <= n, there exist elements x,y in S (not necessarily distinct) such that x*y = 2k.
+115. [A384330](https://oeis.org/A384330) [SeqDB](https://sequencedb.net/s/A384330) Number of distinct subsets S of [n] such that for all 1 <= k <= n, there exist elements x,y in S (not necessarily distinct) such that x*y = 2k.
