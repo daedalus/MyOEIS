@@ -204,7 +204,7 @@
 
 102. [A381056](https://oeis.org/A381056) [SeqDB](https://sequencedb.net/s/A381056) Product of row n of A329708.
 
-103. [A381503](https://Oeis.org/A381503) [SeqDB](https://sequencedb.net/s/A381503) Number of rectangles in a Fibonacci(n) X Fibonacci(n+1) grid.
+103. [A381503](https://oeis.org/A381503) [SeqDB](https://sequencedb.net/s/A381503) Number of rectangles in a Fibonacci(n) X Fibonacci(n+1) grid.
 
 104. [A381457](https://oeis.org/A381457) [SeqDB](https://sequencedb.net/s/A381457) Integers encoding the recursive structure of a bitonic sorter network of n elements in their binary expansion.
 
@@ -229,3 +229,5 @@
 114. [A383976](https://oeis.org/A383976) [SeqDB](https://sequencedb.net/s/A383976) In the binary expansion of n, expand bits 1 -> 11 and 0 -> 10.
 
 115. [A384330](https://oeis.org/A384330) [SeqDB](https://sequencedb.net/s/A384330) Number of distinct subsets S of [n] such that for all 1 <= k <= n, there exist elements x,y in S (not necessarily distinct) such that x*y = 2k.
+
+116. [A383036](https://oeis.org/A383036) [SeqDB](https://sequencedb.net/s/A383036) The determinant of the matrix representing a totally anti-symmetric quasigroup of order 2*n+1
