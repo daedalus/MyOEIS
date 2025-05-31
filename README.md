@@ -230,4 +230,6 @@
 
 115. [A384330](https://oeis.org/A384330) [SeqDB](https://sequencedb.net/s/A384330) Number of distinct subsets S of [n] such that for all 1 <= k <= n, there exist elements x,y in S (not necessarily distinct) such that x*y = 2k.
 
-116. [A383036](https://oeis.org/A383036) [SeqDB](https://sequencedb.net/s/A383036) The determinant of the matrix representing a totally anti-symmetric quasigroup of order 2*n+1
+116. [A383036](https://oeis.org/A383036) [SeqDB](https://sequencedb.net/s/A383036) The determinant of the matrix representing a totally anti-symmetric quasigroup of order 2*n+1.
+
+117. [A384197](https://oeis.org/A384197) [SeqDB](https://sequencedb.net/s/A384197) The Barret reducer reciprocal mod n.
