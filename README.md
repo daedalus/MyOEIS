@@ -234,6 +234,6 @@
 
 117. [A384197](https://oeis.org/A384197) [SeqDB](https://sequencedb.net/s/A384197) The Barret reducer reciprocal mod n.
 
-118. [A382454](https://oeis.org/A382454 [SeqDB](https://sequencedb.net/s/A382454) Number of solutions winning the Tchoukaillon game with n seeds and 2n pits.
+118. [A382454](https://oeis.org/A382454) [SeqDB](https://sequencedb.net/s/A382454) Number of solutions winning the Tchoukaillon game with n seeds and 2n pits.
 
-119. [A383752](https://oeis.org/A382454 [SeqDB](https://sequencedb.net/s/A382454) Product of nonzero remainders n mod p, over all primes p < n.
+119. [A383752](https://oeis.org/A382454) [SeqDB](https://sequencedb.net/s/A382454) Product of nonzero remainders n mod p, over all primes p < n.
