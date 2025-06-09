@@ -224,9 +224,9 @@
 
 112. [A383835](https://oeis.org/A383835) [SeqDB](https://sequencedb.net/s/A383835) Number of permutations of [n] whose compositional square is the identity permutation or its reverse.
 
-113. [A383909](https://oeis.org/A383909) [SeqDB](https://sequencedb.net/s/A383909) In the base 4 expansion of n, map: 0 -> 20, 1 -> 21, 2 -> 30, 3 -> 31.
+113. [A383909](https://oeis.org/A383909) [SeqDB](https://sequencedb.net/s/A383909) In the base 4 expansion of n, map: 0 -> 20, 1 -> 21, 2 -> 30, 3 -> 31. [Graph](https://oeis.org/A383909/graph).
 
-114. [A383976](https://oeis.org/A383976) [SeqDB](https://sequencedb.net/s/A383976) In the binary expansion of n, expand bits 1 -> 11 and 0 -> 10.
+114. [A383976](https://oeis.org/A383976) [SeqDB](https://sequencedb.net/s/A383976) In the binary expansion of n, expand bits 1 -> 11 and 0 -> 10. [Graph](https://oeis.org/A383976/graph).
 
 115. [A384330](https://oeis.org/A384330) [SeqDB](https://sequencedb.net/s/A384330) Number of distinct subsets S of [n] such that for all 1 <= k <= n, there exist elements x,y in S (not necessarily distinct) such that x*y = 2k.
 
