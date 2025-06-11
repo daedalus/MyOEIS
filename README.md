@@ -239,3 +239,5 @@
 119. [A383752](https://oeis.org/A382454) [SeqDB](https://sequencedb.net/s/A382454) Product of nonzero remainders n mod p, over all primes p < n.
 
 120. [A384452](https://oeis.org/A384452) [SeqDB](https://sequencedb.net/s/A384452) a(n) is the sum of squares of the unitary divisors of n!.
+
+121. [A384543](https://oeis.org/A384543) [SeqDB](https://sequencedb.net/s/A384543) Number of distinct values from the bitwise operation i XOR j for all integers i and j in the range [1, n].
