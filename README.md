@@ -241,3 +241,5 @@
 120. [A384452](https://oeis.org/A384452) [SeqDB](https://sequencedb.net/s/A384452) a(n) is the sum of squares of the unitary divisors of n!.
 
 121. [A384543](https://oeis.org/A384543) [SeqDB](https://sequencedb.net/s/A384543) Number of distinct values from the bitwise operation i XOR j for all integers i and j in the range [1, n].
+
+122. [A384666](https://oeis.org/A384666) [SeqDB](httpa://sequencedb.net/s/A384666) Number of distinct values of the quadratic discriminant D=b^2-4*a*c, for a,b,c in the range [-n,n].
