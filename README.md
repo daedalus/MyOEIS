@@ -244,5 +244,6 @@
 
 122. [A384666](https://oeis.org/A384666) [SeqDB](https://sequencedb.net/s/A384666) Number of distinct values of the quadratic discriminant D=b^2-4*a*c, for a,b,c in the range [-n,n].
 
-
 123. [A384763](https://oeis.org/A384763) [SeqDB](https://sequencedb.net/s/A384763) Product of the Euler totients of the unitary divisors of n.
+
+124. [A384716](https://oeis.org/A384716) [SeqDB](https://sequencedb.net/s/A384716) The totient of the product of unitary divisors of n.
