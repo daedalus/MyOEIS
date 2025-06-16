@@ -243,3 +243,6 @@
 121. [A384543](https://oeis.org/A384543) [SeqDB](https://sequencedb.net/s/A384543) Number of distinct values from the bitwise operation i XOR j for all integers i and j in the range [1, n].
 
 122. [A384666](https://oeis.org/A384666) [SeqDB](https://sequencedb.net/s/A384666) Number of distinct values of the quadratic discriminant D=b^2-4*a*c, for a,b,c in the range [-n,n].
+
+
+123. [A384763](https://oeis.org/A384763) [SeqDB](https://sequencedb.net/s/A384763) Product of the Euler totients of the unitary divisors of n.
