@@ -138,7 +138,7 @@
 
 69. [A375764](https://oeis.org/A375764) [SeqDB](https://sequencedb.net/s/A375764) a(n) is the sum of distinct sums of all subsets with two or more elements of {1, 2, ..., n}. [Graph](https://oeis.org/A375764/graph).
 
-70. [A375825](https://oeis.org/A375825) [SeqDB](https://sequencedb.net/s/A375825) Triangle read by rows where row n is the Eytzinger array layout of n elements (a permutation of {1..n}).
+70. [A375825](https://oeis.org/A375825) [SeqDB](https://sequencedb.net/s/A375825) Triangle read by rows where row n is the Eytzinger array layout of n elements (a permutation of {1..n}). [Peter Luschny: tablinspector ranking](https://github.com/PeterLuschny/tablInspector/blob/main/data/Ranking.md)
 
 71. [A375745](https://oeis.org/A375745) [SeqDB](https://sequencedb.net/s/A375745) a(n) is the sum of the vector of the reduced discriminant of the n-th cyclotomic polynomial.
 
