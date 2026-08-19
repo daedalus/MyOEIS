@@ -249,3 +249,5 @@
 124. [A384716](https://oeis.org/A384716) [SeqDB](https://sequencedb.net/s/A384716) The totient of the product of unitary divisors of n.
 
 125. [A385029](https://oeis.org/A385029) [SeqDB](https://sequencedb.net/s/A385029) a(n) = Sum_{-n <= a, b, c <= n} (b^2 - 4*a*c).
+
+126. [A397621](https://oeis.org/A397621) [SeqDB](https://osequencedb.net/s/A397621) a(n) is the linear complexity over GF(2) of the binary expansion of n (as computed by the Berlekamp-Massey algorithm).
