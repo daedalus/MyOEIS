@@ -251,3 +251,5 @@
 125. [A385029](https://oeis.org/A385029) [SeqDB](https://sequencedb.net/s/A385029) a(n) = Sum_{-n <= a, b, c <= n} (b^2 - 4*a*c).
 
 126. [A397621](https://oeis.org/A397621) [SeqDB](https://osequencedb.net/s/A397621) a(n) is the linear complexity over GF(2) of the binary expansion of n (as computed by the Berlekamp-Massey algorithm).
+
+127. [A398874](https://oeis.org/A398874) [SeqDB](https://osequencedb.net/s/A398874) Number of recursive calls made by the binary Fredricksen-Kessler-Maiorana (FKM) recursive generator when generating a de Bruijn sequence of order n.
