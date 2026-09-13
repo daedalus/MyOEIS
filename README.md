@@ -254,5 +254,5 @@
 
 127. [A398874](https://oeis.org/A398874) [SeqDB](https://osequencedb.net/s/A398874) Number of recursive calls made by the binary Fredricksen-Kessler-Maiorana (FKM) recursive generator when generating a de Bruijn sequence of order n.
 
-128. [A396728](https://oeis.org/A396728)[SeqDB](https://osequencedb.net/s/A396728)
+128. [A396728](https://oeis.org/A396728) [SeqDB](https://osequencedb.net/s/A396728)
 Number of antichains of subsets of an n-element set (Sperner families) that do not contain both a set and its complement.
